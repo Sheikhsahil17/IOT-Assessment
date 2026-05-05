@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python cache / test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+helix_residences_iot/.venv_clean/
+
+# Local plotting / editor artifacts
+.matplotlib/
+helix_residences_iot/.matplotlib/
+.vscode/
+
+# Existing nested repo metadata is backed up separately and should not be re-added
+helix_residences_iot/.git/

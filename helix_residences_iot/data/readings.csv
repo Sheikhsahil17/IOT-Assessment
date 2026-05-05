@@ -1,0 +1,801 @@
+timestamp,zone,temperature,humidity,air_quality,light_level,vent_open_ratio,vent_state,scenario
+2026-04-01 06:00:00,Lobby,22.95,48.42,683.56,484.15,0.34,Partially Open,normal
+2026-04-01 06:00:00,Gym,25.34,63.25,1270.02,577.17,0.02,Closed,ventilation_failure
+2026-04-01 06:00:00,Co-working Space,23.24,44.07,1302.34,531.39,0.21,Partially Open,poor_air_quality
+2026-04-01 06:00:00,Corridor,14.46,46.04,704.43,152.33,0.22,Partially Open,sensor_fault
+2026-04-01 06:00:00,Rooftop Lounge,23.3,49.16,642.75,646.33,0.48,Open,normal
+2026-04-01 06:10:00,Lobby,22.9,46.12,683.79,515.24,0.42,Partially Open,normal
+2026-04-01 06:10:00,Gym,24.9,65.1,1305.29,593.22,0.02,Closed,ventilation_failure
+2026-04-01 06:10:00,Co-working Space,23.12,42.32,1330.67,520.24,0.37,Partially Open,poor_air_quality
+2026-04-01 06:10:00,Corridor,14.04,44.48,681.15,133.44,0.17,Partially Open,sensor_fault
+2026-04-01 06:10:00,Rooftop Lounge,23.5,50.56,661.37,626.37,0.64,Open,normal
+2026-04-01 06:20:00,Lobby,23.12,45.99,695.53,480.72,0.45,Partially Open,normal
+2026-04-01 06:20:00,Gym,24.99,62.87,1269.61,599.01,0.02,Closed,ventilation_failure
+2026-04-01 06:20:00,Co-working Space,23.03,45.14,1303.33,554.84,0.24,Partially Open,poor_air_quality
+2026-04-01 06:20:00,Corridor,30.78,46.7,720.96,159.45,0.22,Partially Open,sensor_fault
+2026-04-01 06:20:00,Rooftop Lounge,23.53,47.62,621.74,632.31,0.63,Open,normal
+2026-04-01 06:30:00,Lobby,23.11,46.03,688.19,480.38,0.42,Partially Open,normal
+2026-04-01 06:30:00,Gym,25.05,64.45,1257.6,577.28,0.02,Closed,ventilation_failure
+2026-04-01 06:30:00,Co-working Space,22.87,45.2,1331.56,520.58,0.29,Partially Open,poor_air_quality
+2026-04-01 06:30:00,Corridor,14.15,44.04,719.67,617.2,0.12,Partially Open,sensor_fault
+2026-04-01 06:30:00,Rooftop Lounge,23.22,49.05,658.42,646.53,0.63,Open,normal
+2026-04-01 06:40:00,Lobby,22.81,46.29,721.65,484.7,0.33,Partially Open,normal
+2026-04-01 06:40:00,Gym,25.32,65.39,1302.06,595.81,0.02,Closed,ventilation_failure
+2026-04-01 06:40:00,Co-working Space,23.02,43.2,1288.54,520.44,0.26,Partially Open,poor_air_quality
+2026-04-01 06:40:00,Corridor,30.89,45.78,694.36,131.18,0.14,Partially Open,sensor_fault
+2026-04-01 06:40:00,Rooftop Lounge,23.41,50.14,657.03,629.19,0.59,Open,normal
+2026-04-01 06:50:00,Lobby,23.06,48.32,711.1,507.18,0.27,Partially Open,normal
+2026-04-01 06:50:00,Gym,25.34,66.22,1316.22,592.0,0.02,Closed,ventilation_failure
+2026-04-01 06:50:00,Co-working Space,23.13,45.54,1334.98,552.53,0.35,Partially Open,poor_air_quality
+2026-04-01 06:50:00,Corridor,30.66,44.8,724.25,144.01,0.1,Closed,sensor_fault
+2026-04-01 06:50:00,Rooftop Lounge,23.47,48.26,646.67,635.1,0.58,Open,normal
+2026-04-01 07:00:00,Lobby,23.31,49.59,812.76,499.99,0.52,Open,normal
+2026-04-01 07:00:00,Gym,26.32,72.36,1453.85,574.6,0.02,Closed,ventilation_failure
+2026-04-01 07:00:00,Co-working Space,23.36,44.99,1315.08,526.67,0.26,Partially Open,poor_air_quality
+2026-04-01 07:00:00,Corridor,14.42,45.42,671.99,605.55,0.2,Partially Open,sensor_fault
+2026-04-01 07:00:00,Rooftop Lounge,23.22,48.9,612.04,624.44,0.55,Open,normal
+2026-04-01 07:10:00,Lobby,23.62,48.52,785.7,482.23,0.52,Open,normal
+2026-04-01 07:10:00,Gym,26.6,70.61,1425.56,562.18,0.02,Closed,ventilation_failure
+2026-04-01 07:10:00,Co-working Space,22.97,43.82,1309.48,524.18,0.39,Partially Open,poor_air_quality
+2026-04-01 07:10:00,Corridor,30.89,46.69,692.92,597.31,0.26,Partially Open,sensor_fault
+2026-04-01 07:10:00,Rooftop Lounge,23.19,50.31,611.31,643.45,0.56,Open,normal
+2026-04-01 07:20:00,Lobby,23.57,50.85,796.82,485.11,0.45,Open,normal
+2026-04-01 07:20:00,Gym,26.12,72.38,1429.94,581.8,0.02,Closed,ventilation_failure
+2026-04-01 07:20:00,Co-working Space,23.27,42.9,1329.69,539.1,0.2,Partially Open,poor_air_quality
+2026-04-01 07:20:00,Corridor,14.02,46.01,702.21,113.7,0.21,Partially Open,sensor_fault
+2026-04-01 07:20:00,Rooftop Lounge,23.53,49.71,611.37,654.99,0.61,Open,normal
+2026-04-01 07:30:00,Lobby,23.53,49.88,786.56,509.69,0.54,Open,normal
+2026-04-01 07:30:00,Gym,26.53,70.97,1411.58,575.44,0.02,Closed,ventilation_failure
+2026-04-01 07:30:00,Co-working Space,23.32,42.94,1280.03,510.67,0.24,Partially Open,poor_air_quality
+2026-04-01 07:30:00,Corridor,14.02,46.16,675.7,137.65,0.26,Partially Open,sensor_fault
+2026-04-01 07:30:00,Rooftop Lounge,23.2,48.24,657.01,624.25,0.6,Open,normal
+2026-04-01 07:40:00,Lobby,23.29,50.02,813.6,492.68,0.43,Partially Open,normal
+2026-04-01 07:40:00,Gym,26.49,72.09,1415.1,554.49,0.02,Closed,ventilation_failure
+2026-04-01 07:40:00,Co-working Space,23.23,44.72,1305.59,531.91,0.22,Partially Open,poor_air_quality
+2026-04-01 07:40:00,Corridor,14.05,43.61,667.61,128.12,0.13,Partially Open,sensor_fault
+2026-04-01 07:40:00,Rooftop Lounge,22.68,50.62,630.88,649.37,0.48,Open,normal
+2026-04-01 07:50:00,Lobby,23.18,50.53,797.47,485.88,0.39,Partially Open,normal
+2026-04-01 07:50:00,Gym,26.35,69.33,1397.37,584.99,0.02,Closed,ventilation_failure
+2026-04-01 07:50:00,Co-working Space,22.57,43.11,1309.86,531.62,0.33,Partially Open,poor_air_quality
+2026-04-01 07:50:00,Corridor,14.3,45.09,711.36,607.52,0.15,Partially Open,sensor_fault
+2026-04-01 07:50:00,Rooftop Lounge,22.87,50.17,617.32,639.92,0.61,Open,normal
+2026-04-01 08:00:00,Lobby,23.2,51.67,806.1,465.62,0.38,Partially Open,normal
+2026-04-01 08:00:00,Gym,25.97,71.07,1417.67,539.94,0.02,Closed,ventilation_failure
+2026-04-01 08:00:00,Co-working Space,22.74,43.62,1327.33,525.84,0.27,Partially Open,poor_air_quality
+2026-04-01 08:00:00,Corridor,14.03,43.7,689.52,592.88,0.25,Partially Open,sensor_fault
+2026-04-01 08:00:00,Rooftop Lounge,22.19,50.46,637.08,627.1,0.48,Open,normal
+2026-04-01 08:10:00,Lobby,22.78,48.89,798.76,490.75,0.47,Open,normal
+2026-04-01 08:10:00,Gym,25.85,70.84,1415.83,569.39,0.02,Closed,ventilation_failure
+2026-04-01 08:10:00,Co-working Space,22.59,43.71,1322.89,516.01,0.29,Partially Open,poor_air_quality
+2026-04-01 08:10:00,Corridor,29.94,45.14,713.36,109.25,0.16,Partially Open,sensor_fault
+2026-04-01 08:10:00,Rooftop Lounge,22.36,47.77,662.91,635.15,0.59,Open,normal
+2026-04-01 08:20:00,Lobby,23.47,49.65,827.99,470.71,0.44,Partially Open,normal
+2026-04-01 08:20:00,Gym,25.86,70.27,1396.24,530.78,0.02,Closed,ventilation_failure
+2026-04-01 08:20:00,Co-working Space,22.58,44.28,1301.19,499.25,0.26,Partially Open,poor_air_quality
+2026-04-01 08:20:00,Corridor,13.3,46.53,687.32,114.94,0.16,Partially Open,sensor_fault
+2026-04-01 08:20:00,Rooftop Lounge,22.16,50.97,611.35,631.15,0.52,Open,normal
+2026-04-01 08:30:00,Lobby,23.4,48.08,816.88,479.28,0.45,Partially Open,normal
+2026-04-01 08:30:00,Gym,26.28,69.87,1421.51,563.72,0.02,Closed,ventilation_failure
+2026-04-01 08:30:00,Co-working Space,22.91,42.59,1308.49,501.21,0.3,Partially Open,poor_air_quality
+2026-04-01 08:30:00,Corridor,30.2,43.84,704.01,581.83,0.15,Partially Open,sensor_fault
+2026-04-01 08:30:00,Rooftop Lounge,22.27,49.34,649.87,630.88,0.62,Open,normal
+2026-04-01 08:40:00,Lobby,23.37,50.23,815.94,469.35,0.44,Partially Open,normal
+2026-04-01 08:40:00,Gym,26.0,71.85,1452.55,537.74,0.02,Closed,ventilation_failure
+2026-04-01 08:40:00,Co-working Space,22.48,42.7,1303.65,517.17,0.3,Partially Open,poor_air_quality
+2026-04-01 08:40:00,Corridor,30.48,44.66,678.46,104.97,0.25,Partially Open,sensor_fault
+2026-04-01 08:40:00,Rooftop Lounge,22.31,50.02,658.38,613.97,0.48,Open,normal
+2026-04-01 08:50:00,Lobby,23.15,48.28,839.83,484.48,0.37,Partially Open,normal
+2026-04-01 08:50:00,Gym,26.01,71.56,1423.69,543.42,0.02,Closed,ventilation_failure
+2026-04-01 08:50:00,Co-working Space,22.45,44.45,1326.97,509.62,0.3,Partially Open,poor_air_quality
+2026-04-01 08:50:00,Corridor,29.81,44.67,670.08,117.54,0.11,Closed,sensor_fault
+2026-04-01 08:50:00,Rooftop Lounge,22.51,49.98,652.66,607.64,0.65,Open,normal
+2026-04-01 06:00:00,Lobby,22.95,48.42,683.56,484.15,0.34,Partially Open,normal
+2026-04-01 06:00:00,Gym,25.34,55.25,850.02,577.17,0.52,Open,normal
+2026-04-01 06:00:00,Co-working Space,23.24,44.07,752.34,531.39,0.21,Partially Open,normal
+2026-04-01 06:00:00,Corridor,22.46,46.04,704.43,372.33,0.22,Partially Open,normal
+2026-04-01 06:00:00,Rooftop Lounge,23.44,50.73,672.09,638.82,0.54,Open,normal
+2026-04-01 06:10:00,Lobby,22.97,47.4,687.94,496.92,0.29,Partially Open,normal
+2026-04-01 06:10:00,Gym,24.75,57.97,889.81,571.95,0.48,Open,normal
+2026-04-01 06:10:00,Co-working Space,23.38,45.17,741.26,538.89,0.21,Partially Open,normal
+2026-04-01 06:10:00,Corridor,22.44,43.47,716.2,351.75,0.14,Partially Open,normal
+2026-04-01 06:10:00,Rooftop Lounge,23.32,48.71,638.39,630.6,0.64,Open,normal
+2026-04-01 06:20:00,Lobby,23.13,47.65,735.4,510.96,0.26,Partially Open,normal
+2026-04-01 06:20:00,Gym,25.43,57.34,839.01,571.05,0.35,Partially Open,normal
+2026-04-01 06:20:00,Co-working Space,23.54,43.68,726.45,531.67,0.4,Partially Open,normal
+2026-04-01 06:20:00,Corridor,22.48,44.77,712.58,356.08,0.25,Partially Open,normal
+2026-04-01 06:20:00,Rooftop Lounge,23.16,49.69,670.13,662.58,0.65,Open,normal
+2026-04-01 06:30:00,Lobby,23.1,46.7,682.12,519.15,0.26,Partially Open,normal
+2026-04-01 06:30:00,Gym,25.31,56.4,876.07,573.47,0.38,Partially Open,normal
+2026-04-01 06:30:00,Co-working Space,23.14,43.36,789.18,531.22,0.34,Partially Open,normal
+2026-04-01 06:30:00,Corridor,22.43,46.72,703.39,361.71,0.14,Partially Open,normal
+2026-04-01 06:30:00,Rooftop Lounge,23.55,49.92,676.34,652.6,0.54,Open,normal
+2026-04-01 06:40:00,Lobby,22.64,47.31,689.72,492.72,0.43,Partially Open,normal
+2026-04-01 06:40:00,Gym,25.45,56.47,858.2,587.93,0.36,Partially Open,normal
+2026-04-01 06:40:00,Co-working Space,23.34,45.59,725.91,550.15,0.29,Partially Open,normal
+2026-04-01 06:40:00,Corridor,22.45,44.85,711.22,355.42,0.28,Partially Open,normal
+2026-04-01 06:40:00,Rooftop Lounge,23.01,49.16,610.71,661.77,0.55,Open,normal
+2026-04-01 06:50:00,Lobby,22.65,47.02,730.67,504.74,0.34,Partially Open,normal
+2026-04-01 06:50:00,Gym,25.05,57.44,879.03,563.94,0.49,Open,normal
+2026-04-01 06:50:00,Co-working Space,23.24,45.02,760.1,547.18,0.22,Partially Open,normal
+2026-04-01 06:50:00,Corridor,22.48,46.87,722.22,372.0,0.21,Partially Open,normal
+2026-04-01 06:50:00,Rooftop Lounge,23.4,50.87,666.98,657.53,0.6,Open,normal
+2026-04-01 07:00:00,Lobby,23.46,49.42,849.25,497.78,0.37,Partially Open,normal
+2026-04-01 07:00:00,Gym,26.9,63.36,1007.93,589.57,0.47,Open,normal
+2026-04-01 07:00:00,Co-working Space,22.79,44.08,787.97,525.76,0.36,Partially Open,normal
+2026-04-01 07:00:00,Corridor,22.15,45.53,704.01,359.75,0.2,Partially Open,normal
+2026-04-01 07:00:00,Rooftop Lounge,23.26,50.96,623.53,618.3,0.53,Open,normal
+2026-04-01 07:10:00,Lobby,23.27,48.52,822.72,473.11,0.54,Open,normal
+2026-04-01 07:10:00,Gym,26.63,64.05,1015.82,564.64,0.38,Partially Open,normal
+2026-04-01 07:10:00,Co-working Space,23.16,42.71,791.2,532.43,0.38,Partially Open,normal
+2026-04-01 07:10:00,Corridor,21.97,46.83,682.56,365.67,0.26,Partially Open,normal
+2026-04-01 07:10:00,Rooftop Lounge,23.02,49.5,659.54,654.36,0.56,Open,normal
+2026-04-01 07:20:00,Lobby,23.06,50.23,789.6,509.68,0.53,Open,normal
+2026-04-01 07:20:00,Gym,26.37,62.48,1037.7,556.59,0.37,Partially Open,normal
+2026-04-01 07:20:00,Co-working Space,23.3,44.53,783.66,544.45,0.38,Partially Open,normal
+2026-04-01 07:20:00,Corridor,21.81,44.94,689.78,337.27,0.09,Closed,normal
+2026-04-01 07:20:00,Rooftop Lounge,23.23,50.6,667.6,639.73,0.48,Open,normal
+2026-04-01 07:30:00,Lobby,23.76,50.75,801.07,490.51,0.4,Partially Open,normal
+2026-04-01 07:30:00,Gym,26.83,62.82,1020.01,584.84,0.51,Open,normal
+2026-04-01 07:30:00,Co-working Space,22.91,43.35,730.99,513.79,0.39,Partially Open,normal
+2026-04-01 07:30:00,Corridor,22.02,44.25,709.15,330.65,0.23,Partially Open,normal
+2026-04-01 07:30:00,Rooftop Lounge,22.77,50.73,612.36,619.68,0.49,Open,normal
+2026-04-01 07:40:00,Lobby,23.66,50.6,780.92,501.74,0.39,Partially Open,normal
+2026-04-01 07:40:00,Gym,26.74,62.24,1027.87,572.11,0.41,Partially Open,normal
+2026-04-01 07:40:00,Co-working Space,22.83,44.61,785.7,548.89,0.32,Partially Open,normal
+2026-04-01 07:40:00,Corridor,22.0,45.7,667.23,345.75,0.2,Partially Open,normal
+2026-04-01 07:40:00,Rooftop Lounge,22.69,50.07,668.88,650.77,0.64,Open,normal
+2026-04-01 07:50:00,Lobby,23.22,50.94,820.96,487.68,0.4,Partially Open,normal
+2026-04-01 07:50:00,Gym,26.83,64.69,1029.96,577.29,0.38,Partially Open,normal
+2026-04-01 07:50:00,Co-working Space,22.68,45.04,731.99,511.0,0.33,Partially Open,normal
+2026-04-01 07:50:00,Corridor,22.37,47.05,664.61,349.55,0.09,Closed,normal
+2026-04-01 07:50:00,Rooftop Lounge,23.02,50.23,645.98,635.18,0.48,Open,normal
+2026-04-01 08:00:00,Lobby,22.89,50.38,814.07,466.6,0.46,Open,normal
+2026-04-01 08:00:00,Gym,25.84,63.33,1005.03,548.39,0.46,Open,normal
+2026-04-01 08:00:00,Co-working Space,23.02,43.49,777.2,515.18,0.25,Partially Open,normal
+2026-04-01 08:00:00,Corridor,21.83,44.6,662.41,325.79,0.24,Partially Open,normal
+2026-04-01 08:00:00,Rooftop Lounge,22.87,50.18,623.18,623.07,0.55,Open,normal
+2026-04-01 08:10:00,Lobby,23.08,50.49,808.71,481.1,0.51,Open,normal
+2026-04-01 08:10:00,Gym,26.28,64.43,1030.47,533.0,0.49,Open,normal
+2026-04-01 08:10:00,Co-working Space,22.6,43.47,784.29,531.85,0.39,Partially Open,normal
+2026-04-01 08:10:00,Corridor,21.56,43.82,691.41,313.29,0.12,Closed,normal
+2026-04-01 08:10:00,Rooftop Lounge,22.69,47.83,665.63,604.45,0.6,Open,normal
+2026-04-01 08:20:00,Lobby,23.2,51.6,805.72,482.87,0.45,Partially Open,normal
+2026-04-01 08:20:00,Gym,25.78,63.44,992.06,540.45,0.48,Open,normal
+2026-04-01 08:20:00,Co-working Space,22.75,45.42,766.84,529.4,0.37,Partially Open,normal
+2026-04-01 08:20:00,Corridor,21.33,45.63,684.89,322.04,0.14,Partially Open,normal
+2026-04-01 08:20:00,Rooftop Lounge,22.3,50.74,671.23,596.38,0.59,Open,normal
+2026-04-01 08:30:00,Lobby,22.7,48.27,781.2,470.22,0.47,Open,normal
+2026-04-01 08:30:00,Gym,26.44,61.6,995.7,559.31,0.54,Open,normal
+2026-04-01 08:30:00,Co-working Space,22.33,43.79,773.45,500.35,0.36,Partially Open,normal
+2026-04-01 08:30:00,Corridor,21.81,44.71,679.2,322.28,0.18,Partially Open,normal
+2026-04-01 08:30:00,Rooftop Lounge,22.13,50.83,620.82,606.79,0.6,Open,normal
+2026-04-01 08:40:00,Lobby,22.96,51.41,791.56,448.24,0.45,Open,normal
+2026-04-01 08:40:00,Gym,26.04,62.06,1041.31,555.38,0.37,Partially Open,normal
+2026-04-01 08:40:00,Co-working Space,22.27,45.65,729.35,522.83,0.27,Partially Open,normal
+2026-04-01 08:40:00,Corridor,21.98,43.45,691.88,337.6,0.18,Partially Open,normal
+2026-04-01 08:40:00,Rooftop Lounge,22.52,48.25,636.51,627.04,0.57,Open,normal
+2026-04-01 08:50:00,Lobby,23.32,48.49,813.49,457.82,0.45,Open,normal
+2026-04-01 08:50:00,Gym,26.09,61.52,1021.01,538.45,0.42,Partially Open,normal
+2026-04-01 08:50:00,Co-working Space,22.61,45.3,759.06,520.26,0.2,Partially Open,normal
+2026-04-01 08:50:00,Corridor,21.91,46.51,686.48,319.33,0.12,Partially Open,normal
+2026-04-01 08:50:00,Rooftop Lounge,22.15,50.56,674.64,613.18,0.46,Open,normal
+2026-04-01 09:00:00,Lobby,22.79,51.08,833.3,431.73,0.53,Open,normal
+2026-04-01 09:00:00,Gym,24.27,55.38,892.94,537.69,0.52,Open,normal
+2026-04-01 09:00:00,Co-working Space,23.34,47.42,1073.17,492.41,0.23,Partially Open,normal
+2026-04-01 09:00:00,Corridor,21.39,43.68,698.24,316.63,0.16,Partially Open,normal
+2026-04-01 09:00:00,Rooftop Lounge,21.31,47.9,657.15,577.05,0.54,Open,normal
+2026-04-01 09:10:00,Lobby,22.72,50.74,802.45,429.11,0.53,Open,normal
+2026-04-01 09:10:00,Gym,23.76,55.76,873.75,516.87,0.38,Partially Open,normal
+2026-04-01 09:10:00,Co-working Space,23.54,47.28,1079.17,495.8,0.29,Partially Open,normal
+2026-04-01 09:10:00,Corridor,21.13,46.25,703.28,308.81,0.17,Partially Open,normal
+2026-04-01 09:10:00,Rooftop Lounge,21.95,48.52,671.16,577.42,0.6,Open,normal
+2026-04-01 09:20:00,Lobby,22.19,48.58,788.37,420.83,0.38,Partially Open,normal
+2026-04-01 09:20:00,Gym,24.05,58.27,897.33,500.75,0.48,Open,normal
+2026-04-01 09:20:00,Co-working Space,23.18,49.2,1051.45,472.95,0.22,Partially Open,normal
+2026-04-01 09:20:00,Corridor,21.26,45.95,668.96,303.41,0.08,Closed,normal
+2026-04-01 09:20:00,Rooftop Lounge,21.38,47.92,625.95,588.15,0.46,Open,normal
+2026-04-01 09:30:00,Lobby,22.24,49.28,834.8,437.75,0.44,Partially Open,normal
+2026-04-01 09:30:00,Gym,23.95,58.32,873.97,503.55,0.48,Open,normal
+2026-04-01 09:30:00,Co-working Space,23.35,47.95,1056.24,462.37,0.36,Partially Open,normal
+2026-04-01 09:30:00,Corridor,21.05,44.4,706.95,297.66,0.28,Partially Open,normal
+2026-04-01 09:30:00,Rooftop Lounge,21.28,47.73,664.11,578.44,0.65,Open,normal
+2026-04-01 09:40:00,Lobby,22.16,51.15,844.23,430.36,0.54,Open,normal
+2026-04-01 09:40:00,Gym,23.63,57.8,830.74,534.07,0.37,Partially Open,normal
+2026-04-01 09:40:00,Co-working Space,23.38,48.89,1047.08,483.13,0.21,Partially Open,normal
+2026-04-01 09:40:00,Corridor,21.13,46.21,678.22,303.13,0.09,Closed,normal
+2026-04-01 09:40:00,Rooftop Lounge,21.06,48.99,607.79,577.27,0.65,Open,normal
+2026-04-01 09:50:00,Lobby,22.44,50.51,780.76,428.0,0.36,Partially Open,normal
+2026-04-01 09:50:00,Gym,24.18,55.94,843.96,516.9,0.52,Open,normal
+2026-04-01 09:50:00,Co-working Space,22.81,47.44,1043.92,460.54,0.32,Partially Open,normal
+2026-04-01 09:50:00,Corridor,20.71,46.16,723.75,285.69,0.18,Partially Open,normal
+2026-04-01 09:50:00,Rooftop Lounge,21.49,49.06,610.19,574.23,0.46,Open,normal
+2026-04-01 10:00:00,Lobby,21.72,48.05,698.68,415.43,0.34,Partially Open,normal
+2026-04-01 10:00:00,Gym,23.69,55.59,837.75,479.59,0.41,Partially Open,normal
+2026-04-01 10:00:00,Co-working Space,22.51,48.12,1046.76,469.23,0.37,Partially Open,normal
+2026-04-01 10:00:00,Corridor,20.35,46.26,703.79,278.43,0.09,Closed,normal
+2026-04-01 10:00:00,Rooftop Lounge,20.26,48.03,670.27,557.47,0.62,Open,normal
+2026-04-01 10:10:00,Lobby,21.28,48.1,722.6,407.9,0.34,Partially Open,normal
+2026-04-01 10:10:00,Gym,23.65,58.06,892.35,474.4,0.52,Open,normal
+2026-04-01 10:10:00,Co-working Space,23.09,49.92,1074.31,455.7,0.22,Partially Open,normal
+2026-04-01 10:10:00,Corridor,20.87,45.26,664.88,287.98,0.15,Partially Open,normal
+2026-04-01 10:10:00,Rooftop Lounge,20.76,50.2,635.14,565.84,0.46,Open,normal
+2026-04-01 10:20:00,Lobby,21.06,47.63,697.77,419.84,0.44,Partially Open,normal
+2026-04-01 10:20:00,Gym,23.65,56.01,858.71,505.59,0.39,Partially Open,normal
+2026-04-01 10:20:00,Co-working Space,22.44,49.17,1077.51,464.37,0.3,Partially Open,normal
+2026-04-01 10:20:00,Corridor,20.71,43.91,719.01,251.03,0.23,Partially Open,normal
+2026-04-01 10:20:00,Rooftop Lounge,20.8,47.94,642.69,568.64,0.55,Open,normal
+2026-04-01 10:30:00,Lobby,21.56,45.52,676.76,406.62,0.27,Partially Open,normal
+2026-04-01 10:30:00,Gym,23.52,55.91,884.74,500.92,0.53,Open,normal
+2026-04-01 10:30:00,Co-working Space,22.79,47.41,1046.48,428.83,0.38,Partially Open,normal
+2026-04-01 10:30:00,Corridor,20.27,44.48,665.14,258.81,0.26,Partially Open,normal
+2026-04-01 10:30:00,Rooftop Lounge,20.56,49.21,608.87,557.63,0.61,Open,normal
+2026-04-01 10:40:00,Lobby,20.95,47.18,722.29,405.03,0.35,Partially Open,normal
+2026-04-01 10:40:00,Gym,23.21,57.65,885.84,486.43,0.5,Open,normal
+2026-04-01 10:40:00,Co-working Space,22.41,48.18,1032.29,458.99,0.27,Partially Open,normal
+2026-04-01 10:40:00,Corridor,20.24,45.16,663.09,279.86,0.11,Closed,normal
+2026-04-01 10:40:00,Rooftop Lounge,20.48,48.37,632.19,567.83,0.61,Open,normal
+2026-04-01 10:50:00,Lobby,21.03,45.48,741.4,387.05,0.44,Partially Open,normal
+2026-04-01 10:50:00,Gym,23.66,56.23,886.95,497.44,0.54,Open,normal
+2026-04-01 10:50:00,Co-working Space,22.69,47.8,1040.03,454.7,0.24,Partially Open,normal
+2026-04-01 10:50:00,Corridor,20.2,46.18,685.31,270.82,0.17,Partially Open,normal
+2026-04-01 10:50:00,Rooftop Lounge,20.38,50.07,676.76,540.3,0.55,Open,normal
+2026-04-01 11:00:00,Lobby,20.53,49.03,683.17,366.78,0.44,Partially Open,normal
+2026-04-01 11:00:00,Gym,23.05,56.27,878.58,464.76,0.44,Partially Open,normal
+2026-04-01 11:00:00,Co-working Space,22.47,50.34,1079.74,434.7,0.39,Partially Open,normal
+2026-04-01 11:00:00,Corridor,20.34,44.67,688.52,245.07,0.15,Partially Open,normal
+2026-04-01 11:00:00,Rooftop Lounge,19.74,49.38,624.67,541.87,0.55,Open,normal
+2026-04-01 11:10:00,Lobby,20.74,48.98,696.73,366.91,0.37,Partially Open,normal
+2026-04-01 11:10:00,Gym,22.66,56.63,884.58,453.07,0.37,Partially Open,normal
+2026-04-01 11:10:00,Co-working Space,22.48,49.07,1066.4,403.76,0.22,Partially Open,normal
+2026-04-01 11:10:00,Corridor,19.96,45.82,659.9,257.96,0.28,Partially Open,normal
+2026-04-01 11:10:00,Rooftop Lounge,19.24,49.81,661.48,540.17,0.59,Open,normal
+2026-04-01 11:20:00,Lobby,20.9,48.17,684.11,377.33,0.36,Partially Open,normal
+2026-04-01 11:20:00,Gym,22.99,55.91,872.65,442.58,0.5,Open,normal
+2026-04-01 11:20:00,Co-working Space,21.95,47.56,1083.84,431.36,0.35,Partially Open,normal
+2026-04-01 11:20:00,Corridor,19.85,44.33,708.39,254.42,0.13,Partially Open,normal
+2026-04-01 11:20:00,Rooftop Lounge,19.25,48.72,643.35,506.47,0.5,Open,normal
+2026-04-01 11:30:00,Lobby,20.42,48.71,698.93,365.74,0.42,Partially Open,normal
+2026-04-01 11:30:00,Gym,22.68,56.28,837.27,449.77,0.38,Partially Open,normal
+2026-04-01 11:30:00,Co-working Space,22.25,49.66,1062.61,400.28,0.36,Partially Open,normal
+2026-04-01 11:30:00,Corridor,20.07,46.56,672.68,225.13,0.15,Partially Open,normal
+2026-04-01 11:30:00,Rooftop Lounge,19.62,48.73,638.86,503.96,0.59,Open,normal
+2026-04-01 06:00:00,Lobby,22.95,48.42,683.56,484.15,0.34,Partially Open,normal
+2026-04-01 06:00:00,Gym,25.34,55.25,850.02,577.17,0.52,Open,normal
+2026-04-01 06:00:00,Co-working Space,23.24,44.07,752.34,531.39,0.21,Partially Open,normal
+2026-04-01 06:00:00,Corridor,22.46,46.04,704.43,372.33,0.22,Partially Open,normal
+2026-04-01 06:00:00,Rooftop Lounge,23.44,50.73,672.09,638.82,0.54,Open,normal
+2026-04-01 06:10:00,Lobby,22.97,47.4,687.94,496.92,0.29,Partially Open,normal
+2026-04-01 06:10:00,Gym,24.75,57.97,889.81,571.95,0.48,Open,normal
+2026-04-01 06:10:00,Co-working Space,23.38,45.17,741.26,538.89,0.21,Partially Open,normal
+2026-04-01 06:10:00,Corridor,22.44,43.47,716.2,351.75,0.14,Partially Open,normal
+2026-04-01 06:10:00,Rooftop Lounge,23.32,48.71,638.39,630.6,0.64,Open,normal
+2026-04-01 06:20:00,Lobby,23.13,47.65,735.4,510.96,0.26,Partially Open,normal
+2026-04-01 06:20:00,Gym,25.43,57.34,839.01,571.05,0.35,Partially Open,normal
+2026-04-01 06:20:00,Co-working Space,23.54,43.68,726.45,531.67,0.4,Partially Open,normal
+2026-04-01 06:20:00,Corridor,22.48,44.77,712.58,356.08,0.25,Partially Open,normal
+2026-04-01 06:20:00,Rooftop Lounge,23.16,49.69,670.13,662.58,0.65,Open,normal
+2026-04-01 06:30:00,Lobby,23.1,46.7,682.12,519.15,0.26,Partially Open,normal
+2026-04-01 06:30:00,Gym,25.31,56.4,876.07,573.47,0.38,Partially Open,normal
+2026-04-01 06:30:00,Co-working Space,23.14,43.36,789.18,531.22,0.34,Partially Open,normal
+2026-04-01 06:30:00,Corridor,22.43,46.72,703.39,361.71,0.14,Partially Open,normal
+2026-04-01 06:30:00,Rooftop Lounge,23.55,49.92,676.34,652.6,0.54,Open,normal
+2026-04-01 06:40:00,Lobby,22.64,47.31,689.72,492.72,0.43,Partially Open,normal
+2026-04-01 06:40:00,Gym,25.45,56.47,858.2,587.93,0.36,Partially Open,normal
+2026-04-01 06:40:00,Co-working Space,23.34,45.59,725.91,550.15,0.29,Partially Open,normal
+2026-04-01 06:40:00,Corridor,22.45,44.85,711.22,355.42,0.28,Partially Open,normal
+2026-04-01 06:40:00,Rooftop Lounge,23.01,49.16,610.71,661.77,0.55,Open,normal
+2026-04-01 06:50:00,Lobby,22.65,47.02,730.67,504.74,0.34,Partially Open,normal
+2026-04-01 06:50:00,Gym,25.05,57.44,879.03,563.94,0.49,Open,normal
+2026-04-01 06:50:00,Co-working Space,23.24,45.02,760.1,547.18,0.22,Partially Open,normal
+2026-04-01 06:50:00,Corridor,22.48,46.87,722.22,372.0,0.21,Partially Open,normal
+2026-04-01 06:50:00,Rooftop Lounge,23.4,50.87,666.98,657.53,0.6,Open,normal
+2026-04-01 07:00:00,Lobby,23.46,49.42,849.25,497.78,0.37,Partially Open,normal
+2026-04-01 07:00:00,Gym,26.9,63.36,1007.93,589.57,0.47,Open,normal
+2026-04-01 07:00:00,Co-working Space,22.79,44.08,787.97,525.76,0.36,Partially Open,normal
+2026-04-01 07:00:00,Corridor,22.15,45.53,704.01,359.75,0.2,Partially Open,normal
+2026-04-01 07:00:00,Rooftop Lounge,23.26,50.96,623.53,618.3,0.53,Open,normal
+2026-04-01 07:10:00,Lobby,23.27,48.52,822.72,473.11,0.54,Open,normal
+2026-04-01 07:10:00,Gym,26.63,64.05,1015.82,564.64,0.38,Partially Open,normal
+2026-04-01 07:10:00,Co-working Space,23.16,42.71,791.2,532.43,0.38,Partially Open,normal
+2026-04-01 07:10:00,Corridor,21.97,46.83,682.56,365.67,0.26,Partially Open,normal
+2026-04-01 07:10:00,Rooftop Lounge,23.02,49.5,659.54,654.36,0.56,Open,normal
+2026-04-01 07:20:00,Lobby,23.06,50.23,789.6,509.68,0.53,Open,normal
+2026-04-01 07:20:00,Gym,26.37,62.48,1037.7,556.59,0.37,Partially Open,normal
+2026-04-01 07:20:00,Co-working Space,23.3,44.53,783.66,544.45,0.38,Partially Open,normal
+2026-04-01 07:20:00,Corridor,21.81,44.94,689.78,337.27,0.09,Closed,normal
+2026-04-01 07:20:00,Rooftop Lounge,23.23,50.6,667.6,639.73,0.48,Open,normal
+2026-04-01 07:30:00,Lobby,23.76,50.75,801.07,490.51,0.4,Partially Open,normal
+2026-04-01 07:30:00,Gym,26.83,62.82,1020.01,584.84,0.51,Open,normal
+2026-04-01 07:30:00,Co-working Space,22.91,43.35,730.99,513.79,0.39,Partially Open,normal
+2026-04-01 07:30:00,Corridor,22.02,44.25,709.15,330.65,0.23,Partially Open,normal
+2026-04-01 07:30:00,Rooftop Lounge,22.77,50.73,612.36,619.68,0.49,Open,normal
+2026-04-01 07:40:00,Lobby,23.66,50.6,780.92,501.74,0.39,Partially Open,normal
+2026-04-01 07:40:00,Gym,26.74,62.24,1027.87,572.11,0.41,Partially Open,normal
+2026-04-01 07:40:00,Co-working Space,22.83,44.61,785.7,548.89,0.32,Partially Open,normal
+2026-04-01 07:40:00,Corridor,22.0,45.7,667.23,345.75,0.2,Partially Open,normal
+2026-04-01 07:40:00,Rooftop Lounge,22.69,50.07,668.88,650.77,0.64,Open,normal
+2026-04-01 07:50:00,Lobby,23.22,50.94,820.96,487.68,0.4,Partially Open,normal
+2026-04-01 07:50:00,Gym,26.83,64.69,1029.96,577.29,0.38,Partially Open,normal
+2026-04-01 07:50:00,Co-working Space,22.68,45.04,731.99,511.0,0.33,Partially Open,normal
+2026-04-01 07:50:00,Corridor,22.37,47.05,664.61,349.55,0.09,Closed,normal
+2026-04-01 07:50:00,Rooftop Lounge,23.02,50.23,645.98,635.18,0.48,Open,normal
+2026-04-01 08:00:00,Lobby,22.89,50.38,814.07,466.6,0.46,Open,normal
+2026-04-01 08:00:00,Gym,25.84,63.33,1005.03,548.39,0.46,Open,normal
+2026-04-01 08:00:00,Co-working Space,23.02,43.49,777.2,515.18,0.25,Partially Open,normal
+2026-04-01 08:00:00,Corridor,21.83,44.6,662.41,325.79,0.24,Partially Open,normal
+2026-04-01 08:00:00,Rooftop Lounge,22.87,50.18,623.18,623.07,0.55,Open,normal
+2026-04-01 08:10:00,Lobby,23.08,50.49,808.71,481.1,0.51,Open,normal
+2026-04-01 08:10:00,Gym,26.28,64.43,1030.47,533.0,0.49,Open,normal
+2026-04-01 08:10:00,Co-working Space,22.6,43.47,784.29,531.85,0.39,Partially Open,normal
+2026-04-01 08:10:00,Corridor,21.56,43.82,691.41,313.29,0.12,Closed,normal
+2026-04-01 08:10:00,Rooftop Lounge,22.69,47.83,665.63,604.45,0.6,Open,normal
+2026-04-01 08:20:00,Lobby,23.2,51.6,805.72,482.87,0.45,Partially Open,normal
+2026-04-01 08:20:00,Gym,25.78,63.44,992.06,540.45,0.48,Open,normal
+2026-04-01 08:20:00,Co-working Space,22.75,45.42,766.84,529.4,0.37,Partially Open,normal
+2026-04-01 08:20:00,Corridor,21.33,45.63,684.89,322.04,0.14,Partially Open,normal
+2026-04-01 08:20:00,Rooftop Lounge,22.3,50.74,671.23,596.38,0.59,Open,normal
+2026-04-01 08:30:00,Lobby,22.7,48.27,781.2,470.22,0.47,Open,normal
+2026-04-01 08:30:00,Gym,26.44,61.6,995.7,559.31,0.54,Open,normal
+2026-04-01 08:30:00,Co-working Space,22.33,43.79,773.45,500.35,0.36,Partially Open,normal
+2026-04-01 08:30:00,Corridor,21.81,44.71,679.2,322.28,0.18,Partially Open,normal
+2026-04-01 08:30:00,Rooftop Lounge,22.13,50.83,620.82,606.79,0.6,Open,normal
+2026-04-01 08:40:00,Lobby,22.96,51.41,791.56,448.24,0.45,Open,normal
+2026-04-01 08:40:00,Gym,26.04,62.06,1041.31,555.38,0.37,Partially Open,normal
+2026-04-01 08:40:00,Co-working Space,22.27,45.65,729.35,522.83,0.27,Partially Open,normal
+2026-04-01 08:40:00,Corridor,21.98,43.45,691.88,337.6,0.18,Partially Open,normal
+2026-04-01 08:40:00,Rooftop Lounge,22.52,48.25,636.51,627.04,0.57,Open,normal
+2026-04-01 08:50:00,Lobby,23.32,48.49,813.49,457.82,0.45,Open,normal
+2026-04-01 08:50:00,Gym,26.09,61.52,1021.01,538.45,0.42,Partially Open,normal
+2026-04-01 08:50:00,Co-working Space,22.61,45.3,759.06,520.26,0.2,Partially Open,normal
+2026-04-01 08:50:00,Corridor,21.91,46.51,686.48,319.33,0.12,Partially Open,normal
+2026-04-01 08:50:00,Rooftop Lounge,22.15,50.56,674.64,613.18,0.46,Open,normal
+2026-04-01 09:00:00,Lobby,22.79,51.08,833.3,431.73,0.53,Open,normal
+2026-04-01 09:00:00,Gym,24.27,55.38,892.94,537.69,0.52,Open,normal
+2026-04-01 09:00:00,Co-working Space,23.34,47.42,1073.17,492.41,0.23,Partially Open,normal
+2026-04-01 09:00:00,Corridor,21.39,43.68,698.24,316.63,0.16,Partially Open,normal
+2026-04-01 09:00:00,Rooftop Lounge,21.31,47.9,657.15,577.05,0.54,Open,normal
+2026-04-01 09:10:00,Lobby,22.72,50.74,802.45,429.11,0.53,Open,normal
+2026-04-01 09:10:00,Gym,23.76,55.76,873.75,516.87,0.38,Partially Open,normal
+2026-04-01 09:10:00,Co-working Space,23.54,47.28,1079.17,495.8,0.29,Partially Open,normal
+2026-04-01 09:10:00,Corridor,21.13,46.25,703.28,308.81,0.17,Partially Open,normal
+2026-04-01 09:10:00,Rooftop Lounge,21.95,48.52,671.16,577.42,0.6,Open,normal
+2026-04-01 09:20:00,Lobby,22.19,48.58,788.37,420.83,0.38,Partially Open,normal
+2026-04-01 09:20:00,Gym,24.05,58.27,897.33,500.75,0.48,Open,normal
+2026-04-01 09:20:00,Co-working Space,23.18,49.2,1051.45,472.95,0.22,Partially Open,normal
+2026-04-01 09:20:00,Corridor,21.26,45.95,668.96,303.41,0.08,Closed,normal
+2026-04-01 09:20:00,Rooftop Lounge,21.38,47.92,625.95,588.15,0.46,Open,normal
+2026-04-01 09:30:00,Lobby,22.24,49.28,834.8,437.75,0.44,Partially Open,normal
+2026-04-01 09:30:00,Gym,23.95,58.32,873.97,503.55,0.48,Open,normal
+2026-04-01 09:30:00,Co-working Space,23.35,47.95,1056.24,462.37,0.36,Partially Open,normal
+2026-04-01 09:30:00,Corridor,21.05,44.4,706.95,297.66,0.28,Partially Open,normal
+2026-04-01 09:30:00,Rooftop Lounge,21.28,47.73,664.11,578.44,0.65,Open,normal
+2026-04-01 09:40:00,Lobby,22.16,51.15,844.23,430.36,0.54,Open,normal
+2026-04-01 09:40:00,Gym,23.63,57.8,830.74,534.07,0.37,Partially Open,normal
+2026-04-01 09:40:00,Co-working Space,23.38,48.89,1047.08,483.13,0.21,Partially Open,normal
+2026-04-01 09:40:00,Corridor,21.13,46.21,678.22,303.13,0.09,Closed,normal
+2026-04-01 09:40:00,Rooftop Lounge,21.06,48.99,607.79,577.27,0.65,Open,normal
+2026-04-01 09:50:00,Lobby,22.44,50.51,780.76,428.0,0.36,Partially Open,normal
+2026-04-01 09:50:00,Gym,24.18,55.94,843.96,516.9,0.52,Open,normal
+2026-04-01 09:50:00,Co-working Space,22.81,47.44,1043.92,460.54,0.32,Partially Open,normal
+2026-04-01 09:50:00,Corridor,20.71,46.16,723.75,285.69,0.18,Partially Open,normal
+2026-04-01 09:50:00,Rooftop Lounge,21.49,49.06,610.19,574.23,0.46,Open,normal
+2026-04-01 10:00:00,Lobby,21.72,48.05,698.68,415.43,0.34,Partially Open,normal
+2026-04-01 10:00:00,Gym,23.69,55.59,837.75,479.59,0.41,Partially Open,normal
+2026-04-01 10:00:00,Co-working Space,22.51,48.12,1046.76,469.23,0.37,Partially Open,normal
+2026-04-01 10:00:00,Corridor,20.35,46.26,703.79,278.43,0.09,Closed,normal
+2026-04-01 10:00:00,Rooftop Lounge,20.26,48.03,670.27,557.47,0.62,Open,normal
+2026-04-01 10:10:00,Lobby,21.28,48.1,722.6,407.9,0.34,Partially Open,normal
+2026-04-01 10:10:00,Gym,23.65,58.06,892.35,474.4,0.52,Open,normal
+2026-04-01 10:10:00,Co-working Space,23.09,49.92,1074.31,455.7,0.22,Partially Open,normal
+2026-04-01 10:10:00,Corridor,20.87,45.26,664.88,287.98,0.15,Partially Open,normal
+2026-04-01 10:10:00,Rooftop Lounge,20.76,50.2,635.14,565.84,0.46,Open,normal
+2026-04-01 10:20:00,Lobby,21.06,47.63,697.77,419.84,0.44,Partially Open,normal
+2026-04-01 10:20:00,Gym,23.65,56.01,858.71,505.59,0.39,Partially Open,normal
+2026-04-01 10:20:00,Co-working Space,22.44,49.17,1077.51,464.37,0.3,Partially Open,normal
+2026-04-01 10:20:00,Corridor,20.71,43.91,719.01,251.03,0.23,Partially Open,normal
+2026-04-01 10:20:00,Rooftop Lounge,20.8,47.94,642.69,568.64,0.55,Open,normal
+2026-04-01 10:30:00,Lobby,21.56,45.52,676.76,406.62,0.27,Partially Open,normal
+2026-04-01 10:30:00,Gym,23.52,55.91,884.74,500.92,0.53,Open,normal
+2026-04-01 10:30:00,Co-working Space,22.79,47.41,1046.48,428.83,0.38,Partially Open,normal
+2026-04-01 10:30:00,Corridor,20.27,44.48,665.14,258.81,0.26,Partially Open,normal
+2026-04-01 10:30:00,Rooftop Lounge,20.56,49.21,608.87,557.63,0.61,Open,normal
+2026-04-01 10:40:00,Lobby,20.95,47.18,722.29,405.03,0.35,Partially Open,normal
+2026-04-01 10:40:00,Gym,23.21,57.65,885.84,486.43,0.5,Open,normal
+2026-04-01 10:40:00,Co-working Space,22.41,48.18,1032.29,458.99,0.27,Partially Open,normal
+2026-04-01 10:40:00,Corridor,20.24,45.16,663.09,279.86,0.11,Closed,normal
+2026-04-01 10:40:00,Rooftop Lounge,20.48,48.37,632.19,567.83,0.61,Open,normal
+2026-04-01 10:50:00,Lobby,21.03,45.48,741.4,387.05,0.44,Partially Open,normal
+2026-04-01 10:50:00,Gym,23.66,56.23,886.95,497.44,0.54,Open,normal
+2026-04-01 10:50:00,Co-working Space,22.69,47.8,1040.03,454.7,0.24,Partially Open,normal
+2026-04-01 10:50:00,Corridor,20.2,46.18,685.31,270.82,0.17,Partially Open,normal
+2026-04-01 10:50:00,Rooftop Lounge,20.38,50.07,676.76,540.3,0.55,Open,normal
+2026-04-01 11:00:00,Lobby,20.53,49.03,683.17,366.78,0.44,Partially Open,normal
+2026-04-01 11:00:00,Gym,23.05,56.27,878.58,464.76,0.44,Partially Open,normal
+2026-04-01 11:00:00,Co-working Space,22.47,50.34,1079.74,434.7,0.39,Partially Open,normal
+2026-04-01 11:00:00,Corridor,20.34,44.67,688.52,245.07,0.15,Partially Open,normal
+2026-04-01 11:00:00,Rooftop Lounge,19.74,49.38,624.67,541.87,0.55,Open,normal
+2026-04-01 11:10:00,Lobby,20.74,48.98,696.73,366.91,0.37,Partially Open,normal
+2026-04-01 11:10:00,Gym,22.66,56.63,884.58,453.07,0.37,Partially Open,normal
+2026-04-01 11:10:00,Co-working Space,22.48,49.07,1066.4,403.76,0.22,Partially Open,normal
+2026-04-01 11:10:00,Corridor,19.96,45.82,659.9,257.96,0.28,Partially Open,normal
+2026-04-01 11:10:00,Rooftop Lounge,19.24,49.81,661.48,540.17,0.59,Open,normal
+2026-04-01 11:20:00,Lobby,20.9,48.17,684.11,377.33,0.36,Partially Open,normal
+2026-04-01 11:20:00,Gym,22.99,55.91,872.65,442.58,0.5,Open,normal
+2026-04-01 11:20:00,Co-working Space,21.95,47.56,1083.84,431.36,0.35,Partially Open,normal
+2026-04-01 11:20:00,Corridor,19.85,44.33,708.39,254.42,0.13,Partially Open,normal
+2026-04-01 11:20:00,Rooftop Lounge,19.25,48.72,643.35,506.47,0.5,Open,normal
+2026-04-01 11:30:00,Lobby,20.42,48.71,698.93,365.74,0.42,Partially Open,normal
+2026-04-01 11:30:00,Gym,22.68,56.28,837.27,449.77,0.38,Partially Open,normal
+2026-04-01 11:30:00,Co-working Space,22.25,49.66,1062.61,400.28,0.36,Partially Open,normal
+2026-04-01 11:30:00,Corridor,20.07,46.56,672.68,225.13,0.15,Partially Open,normal
+2026-04-01 11:30:00,Rooftop Lounge,19.62,48.73,638.86,503.96,0.59,Open,normal
+2026-04-01 11:40:00,Lobby,20.89,49.04,705.79,368.51,0.44,Partially Open,normal
+2026-04-01 11:40:00,Gym,23.14,57.15,870.97,448.34,0.37,Partially Open,normal
+2026-04-01 11:40:00,Co-working Space,21.9,49.13,1032.64,417.8,0.29,Partially Open,normal
+2026-04-01 11:40:00,Corridor,19.71,43.77,661.46,229.29,0.13,Partially Open,normal
+2026-04-01 11:40:00,Rooftop Lounge,19.68,48.11,647.1,508.99,0.56,Open,normal
+2026-04-01 11:50:00,Lobby,20.63,47.93,718.12,365.27,0.26,Partially Open,normal
+2026-04-01 11:50:00,Gym,23.04,56.6,886.29,467.74,0.43,Partially Open,normal
+2026-04-01 11:50:00,Co-working Space,21.86,49.35,1082.03,412.99,0.24,Partially Open,normal
+2026-04-01 11:50:00,Corridor,19.85,44.96,671.18,213.15,0.24,Partially Open,normal
+2026-04-01 11:50:00,Rooftop Lounge,18.9,50.42,661.87,521.8,0.54,Open,normal
+2026-04-01 12:00:00,Lobby,20.23,48.33,732.44,370.38,0.42,Partially Open,normal
+2026-04-01 12:00:00,Gym,22.33,57.32,853.71,443.26,0.53,Open,normal
+2026-04-01 12:00:00,Co-working Space,22.1,49.57,1064.55,393.48,0.39,Partially Open,normal
+2026-04-01 12:00:00,Corridor,19.68,44.06,673.07,214.92,0.13,Partially Open,normal
+2026-04-01 12:00:00,Rooftop Lounge,19.0,48.37,673.32,489.39,0.49,Open,normal
+2026-04-01 12:10:00,Lobby,20.61,46.07,730.62,355.29,0.37,Partially Open,normal
+2026-04-01 12:10:00,Gym,22.88,56.26,884.6,442.37,0.45,Open,normal
+2026-04-01 12:10:00,Co-working Space,21.71,50.63,1078.14,391.54,0.4,Partially Open,normal
+2026-04-01 12:10:00,Corridor,19.55,46.27,691.85,194.16,0.1,Closed,normal
+2026-04-01 12:10:00,Rooftop Lounge,18.96,50.59,621.33,483.92,0.65,Open,normal
+2026-04-01 12:20:00,Lobby,20.58,45.51,705.97,351.6,0.36,Partially Open,normal
+2026-04-01 12:20:00,Gym,22.12,57.08,867.82,439.35,0.41,Partially Open,normal
+2026-04-01 12:20:00,Co-working Space,21.61,49.04,1037.13,393.63,0.31,Partially Open,normal
+2026-04-01 12:20:00,Corridor,19.67,45.11,700.48,221.49,0.17,Partially Open,normal
+2026-04-01 12:20:00,Rooftop Lounge,18.49,50.7,646.97,492.8,0.6,Open,normal
+2026-04-01 12:30:00,Lobby,20.75,46.47,715.62,369.98,0.45,Partially Open,normal
+2026-04-01 12:30:00,Gym,22.8,55.16,882.19,447.83,0.45,Partially Open,normal
+2026-04-01 12:30:00,Co-working Space,21.57,49.17,1090.77,404.33,0.22,Partially Open,normal
+2026-04-01 12:30:00,Corridor,19.59,46.62,711.0,203.78,0.11,Closed,normal
+2026-04-01 12:30:00,Rooftop Lounge,18.86,50.05,648.21,500.05,0.55,Open,normal
+2026-04-01 12:40:00,Lobby,19.99,47.02,688.38,350.12,0.4,Partially Open,normal
+2026-04-01 12:40:00,Gym,22.76,55.93,885.11,438.53,0.52,Open,normal
+2026-04-01 12:40:00,Co-working Space,22.06,49.49,1084.38,403.76,0.3,Partially Open,normal
+2026-04-01 12:40:00,Corridor,19.92,44.48,705.69,218.17,0.09,Closed,normal
+2026-04-01 12:40:00,Rooftop Lounge,18.84,49.68,618.79,492.89,0.62,Open,normal
+2026-04-01 12:50:00,Lobby,20.43,45.77,722.3,337.53,0.29,Partially Open,normal
+2026-04-01 12:50:00,Gym,22.38,57.51,850.68,417.53,0.51,Open,normal
+2026-04-01 12:50:00,Co-working Space,21.36,49.36,1050.75,375.54,0.39,Partially Open,normal
+2026-04-01 12:50:00,Corridor,19.55,44.61,690.93,198.99,0.24,Partially Open,normal
+2026-04-01 12:50:00,Rooftop Lounge,18.76,47.93,617.19,496.05,0.55,Open,normal
+2026-04-01 13:00:00,Lobby,20.3,45.8,742.33,343.28,0.26,Partially Open,normal
+2026-04-01 13:00:00,Gym,22.15,57.85,848.6,404.73,0.43,Partially Open,normal
+2026-04-01 13:00:00,Co-working Space,21.24,49.11,1083.67,363.04,0.32,Partially Open,normal
+2026-04-01 13:00:00,Corridor,19.53,46.13,685.09,213.22,0.11,Closed,normal
+2026-04-01 13:00:00,Rooftop Lounge,18.08,49.81,667.22,492.15,0.64,Open,normal
+2026-04-01 13:10:00,Lobby,20.4,49.05,683.5,347.31,0.35,Partially Open,normal
+2026-04-01 13:10:00,Gym,22.25,55.58,843.22,415.18,0.4,Partially Open,normal
+2026-04-01 13:10:00,Co-working Space,21.86,47.13,1080.72,393.85,0.21,Partially Open,normal
+2026-04-01 13:10:00,Corridor,19.04,44.38,722.46,202.38,0.18,Partially Open,normal
+2026-04-01 13:10:00,Rooftop Lounge,18.23,48.46,617.72,501.0,0.59,Open,normal
+2026-04-01 13:20:00,Lobby,20.45,47.66,709.33,340.77,0.3,Partially Open,normal
+2026-04-01 13:20:00,Gym,22.66,57.07,898.11,431.92,0.39,Partially Open,normal
+2026-04-01 13:20:00,Co-working Space,21.94,47.3,1078.37,396.88,0.3,Partially Open,normal
+2026-04-01 13:20:00,Corridor,19.29,44.36,678.2,191.94,0.18,Partially Open,normal
+2026-04-01 13:20:00,Rooftop Lounge,18.3,51.06,621.04,490.82,0.61,Open,normal
+2026-04-01 13:30:00,Lobby,20.54,47.02,717.07,345.84,0.34,Partially Open,normal
+2026-04-01 13:30:00,Gym,22.15,54.89,870.64,428.88,0.52,Open,normal
+2026-04-01 13:30:00,Co-working Space,21.5,47.91,1026.09,386.34,0.2,Partially Open,normal
+2026-04-01 13:30:00,Corridor,19.68,46.12,682.92,194.88,0.21,Partially Open,normal
+2026-04-01 13:30:00,Rooftop Lounge,18.1,49.66,668.02,467.65,0.53,Open,normal
+2026-04-01 13:40:00,Lobby,20.49,46.89,741.09,350.61,0.41,Partially Open,normal
+2026-04-01 13:40:00,Gym,22.16,57.5,892.54,404.06,0.47,Open,normal
+2026-04-01 13:40:00,Co-working Space,21.9,50.54,1068.16,386.73,0.32,Partially Open,normal
+2026-04-01 13:40:00,Corridor,19.14,45.74,701.97,198.89,0.19,Partially Open,normal
+2026-04-01 13:40:00,Rooftop Lounge,18.36,48.51,638.21,467.7,0.59,Open,normal
+2026-04-01 13:50:00,Lobby,20.28,45.89,678.03,324.54,0.35,Partially Open,normal
+2026-04-01 13:50:00,Gym,22.23,56.28,840.59,423.5,0.45,Partially Open,normal
+2026-04-01 13:50:00,Co-working Space,21.78,47.3,1031.89,389.98,0.32,Partially Open,normal
+2026-04-01 13:50:00,Corridor,19.35,43.92,708.79,214.63,0.28,Partially Open,normal
+2026-04-01 13:50:00,Rooftop Lounge,18.34,48.94,672.44,486.49,0.63,Open,normal
+2026-04-01 14:00:00,Lobby,20.56,46.39,712.13,335.41,0.33,Partially Open,normal
+2026-04-01 14:00:00,Gym,22.6,55.63,853.65,441.1,0.41,Partially Open,normal
+2026-04-01 14:00:00,Co-working Space,21.27,48.87,1092.56,379.95,0.38,Partially Open,normal
+2026-04-01 14:00:00,Corridor,19.68,45.96,668.23,213.79,0.09,Closed,normal
+2026-04-01 14:00:00,Rooftop Lounge,18.52,48.58,615.03,493.97,0.61,Open,normal
+2026-04-01 14:10:00,Lobby,20.31,48.88,723.43,360.01,0.4,Partially Open,normal
+2026-04-01 14:10:00,Gym,22.41,57.12,870.87,423.85,0.44,Partially Open,normal
+2026-04-01 14:10:00,Co-working Space,21.36,50.28,1065.76,387.17,0.37,Partially Open,normal
+2026-04-01 14:10:00,Corridor,19.38,46.28,664.93,201.79,0.16,Partially Open,normal
+2026-04-01 14:10:00,Rooftop Lounge,18.5,49.5,659.87,505.01,0.57,Open,normal
+2026-04-01 14:20:00,Lobby,19.98,48.09,700.97,337.63,0.42,Partially Open,normal
+2026-04-01 14:20:00,Gym,22.32,57.48,896.59,423.35,0.44,Partially Open,normal
+2026-04-01 14:20:00,Co-working Space,21.8,49.29,1063.03,368.69,0.22,Partially Open,normal
+2026-04-01 14:20:00,Corridor,19.39,46.28,678.29,213.76,0.11,Closed,normal
+2026-04-01 14:20:00,Rooftop Lounge,18.0,50.49,610.06,495.15,0.52,Open,normal
+2026-04-01 14:30:00,Lobby,20.3,48.87,705.14,341.2,0.31,Partially Open,normal
+2026-04-01 14:30:00,Gym,22.03,55.06,839.36,405.85,0.45,Open,normal
+2026-04-01 14:30:00,Co-working Space,21.64,48.35,1067.19,381.53,0.3,Partially Open,normal
+2026-04-01 14:30:00,Corridor,19.55,46.69,719.48,217.49,0.23,Partially Open,normal
+2026-04-01 14:30:00,Rooftop Lounge,18.43,50.4,660.1,491.84,0.63,Open,normal
+2026-04-01 14:40:00,Lobby,20.46,47.21,679.34,339.05,0.4,Partially Open,normal
+2026-04-01 14:40:00,Gym,22.36,55.12,875.48,413.59,0.42,Partially Open,normal
+2026-04-01 14:40:00,Co-working Space,21.67,50.34,1076.18,385.49,0.36,Partially Open,normal
+2026-04-01 14:40:00,Corridor,19.57,43.55,656.25,184.33,0.27,Partially Open,normal
+2026-04-01 14:40:00,Rooftop Lounge,18.36,49.67,622.12,508.78,0.58,Open,normal
+2026-04-01 14:50:00,Lobby,19.99,46.4,713.9,352.86,0.31,Partially Open,normal
+2026-04-01 14:50:00,Gym,22.02,55.2,859.08,416.94,0.54,Open,normal
+2026-04-01 14:50:00,Co-working Space,21.68,49.99,1052.36,386.43,0.22,Partially Open,normal
+2026-04-01 14:50:00,Corridor,19.11,43.77,674.13,219.5,0.25,Partially Open,normal
+2026-04-01 14:50:00,Rooftop Lounge,17.97,49.88,607.51,490.19,0.48,Open,normal
+2026-04-01 15:00:00,Lobby,20.62,45.67,725.66,370.21,0.4,Partially Open,normal
+2026-04-01 15:00:00,Gym,22.34,55.7,833.1,418.53,0.51,Open,normal
+2026-04-01 15:00:00,Co-working Space,21.9,50.1,1040.21,387.16,0.31,Partially Open,normal
+2026-04-01 15:00:00,Corridor,19.79,45.02,694.77,234.37,0.1,Closed,normal
+2026-04-01 15:00:00,Rooftop Lounge,18.84,47.63,612.41,488.38,0.61,Open,normal
+2026-04-01 15:10:00,Lobby,20.58,45.59,700.4,352.1,0.45,Partially Open,normal
+2026-04-01 15:10:00,Gym,22.43,56.23,841.3,431.01,0.54,Open,normal
+2026-04-01 15:10:00,Co-working Space,21.89,49.09,1064.25,414.89,0.35,Partially Open,normal
+2026-04-01 15:10:00,Corridor,19.57,46.89,715.53,201.02,0.15,Partially Open,normal
+2026-04-01 15:10:00,Rooftop Lounge,19.05,49.71,636.85,482.42,0.55,Open,normal
+2026-04-01 15:20:00,Lobby,20.8,48.12,732.84,342.91,0.41,Partially Open,normal
+2026-04-01 15:20:00,Gym,22.31,55.05,881.32,442.42,0.49,Open,normal
+2026-04-01 15:20:00,Co-working Space,21.72,47.65,1070.08,379.98,0.21,Partially Open,normal
+2026-04-01 15:20:00,Corridor,19.61,45.01,680.62,214.09,0.1,Closed,normal
+2026-04-01 15:20:00,Rooftop Lounge,19.03,49.43,654.54,486.11,0.64,Open,normal
+2026-04-01 15:30:00,Lobby,20.36,49.02,737.2,348.09,0.33,Partially Open,normal
+2026-04-01 15:30:00,Gym,22.27,55.87,832.41,431.15,0.47,Open,normal
+2026-04-01 15:30:00,Co-working Space,21.93,49.98,1049.71,406.68,0.31,Partially Open,normal
+2026-04-01 15:30:00,Corridor,19.78,46.06,721.35,217.43,0.23,Partially Open,normal
+2026-04-01 15:30:00,Rooftop Lounge,18.84,50.99,628.09,520.61,0.65,Open,normal
+2026-04-01 15:40:00,Lobby,20.52,48.44,722.66,369.77,0.33,Partially Open,normal
+2026-04-01 15:40:00,Gym,22.33,55.25,830.85,428.3,0.5,Open,normal
+2026-04-01 15:40:00,Co-working Space,21.73,48.46,1026.01,406.4,0.4,Partially Open,normal
+2026-04-01 15:40:00,Corridor,19.55,44.99,695.55,217.88,0.12,Partially Open,normal
+2026-04-01 15:40:00,Rooftop Lounge,18.95,49.24,612.08,524.53,0.59,Open,normal
+2026-04-01 15:50:00,Lobby,20.86,46.13,692.42,361.94,0.43,Partially Open,normal
+2026-04-01 15:50:00,Gym,22.28,54.86,877.32,448.9,0.38,Partially Open,normal
+2026-04-01 15:50:00,Co-working Space,22.22,47.07,1042.18,381.97,0.25,Partially Open,normal
+2026-04-01 15:50:00,Corridor,19.52,46.7,659.37,230.81,0.12,Partially Open,normal
+2026-04-01 15:50:00,Rooftop Lounge,19.3,48.44,649.58,492.36,0.57,Open,normal
+2026-04-01 16:00:00,Lobby,20.47,47.84,738.61,366.67,0.43,Partially Open,normal
+2026-04-01 16:00:00,Gym,22.87,58.0,837.15,442.27,0.43,Partially Open,normal
+2026-04-01 16:00:00,Co-working Space,22.36,49.4,1074.2,409.44,0.23,Partially Open,normal
+2026-04-01 16:00:00,Corridor,20.18,44.17,712.27,259.56,0.14,Partially Open,normal
+2026-04-01 16:00:00,Rooftop Lounge,20.41,52.79,787.33,536.08,0.6,Open,normal
+2026-04-01 16:10:00,Lobby,20.87,49.02,718.11,388.1,0.25,Partially Open,normal
+2026-04-01 16:10:00,Gym,23.35,55.69,892.16,479.39,0.49,Open,normal
+2026-04-01 16:10:00,Co-working Space,22.39,47.47,1033.4,427.57,0.31,Partially Open,normal
+2026-04-01 16:10:00,Corridor,20.52,43.5,668.54,226.31,0.12,Closed,normal
+2026-04-01 16:10:00,Rooftop Lounge,20.62,52.19,781.41,525.19,0.5,Open,normal
+2026-04-01 16:20:00,Lobby,20.57,46.7,718.63,373.46,0.28,Partially Open,normal
+2026-04-01 16:20:00,Gym,22.69,56.0,844.65,482.98,0.35,Partially Open,normal
+2026-04-01 16:20:00,Co-working Space,22.03,48.57,1077.64,425.43,0.24,Partially Open,normal
+2026-04-01 16:20:00,Corridor,20.44,44.85,718.19,263.05,0.17,Partially Open,normal
+2026-04-01 16:20:00,Rooftop Lounge,20.52,52.59,775.7,514.94,0.45,Open,normal
+2026-04-01 16:30:00,Lobby,21.29,45.55,716.7,377.62,0.3,Partially Open,normal
+2026-04-01 16:30:00,Gym,23.29,55.59,836.73,468.27,0.51,Open,normal
+2026-04-01 16:30:00,Co-working Space,22.5,48.03,1027.18,413.29,0.28,Partially Open,normal
+2026-04-01 16:30:00,Corridor,19.93,45.47,687.06,241.62,0.14,Partially Open,normal
+2026-04-01 16:30:00,Rooftop Lounge,20.3,53.32,763.41,526.03,0.53,Open,normal
+2026-04-01 16:40:00,Lobby,20.59,47.48,720.79,391.44,0.4,Partially Open,normal
+2026-04-01 16:40:00,Gym,22.87,55.4,870.11,464.38,0.5,Open,normal
+2026-04-01 16:40:00,Co-working Space,22.48,47.96,1028.31,423.85,0.25,Partially Open,normal
+2026-04-01 16:40:00,Corridor,20.36,44.62,698.73,251.12,0.15,Partially Open,normal
+2026-04-01 16:40:00,Rooftop Lounge,20.68,52.79,799.9,531.5,0.52,Open,normal
+2026-04-01 16:50:00,Lobby,21.1,48.53,726.47,388.46,0.3,Partially Open,normal
+2026-04-01 16:50:00,Gym,23.2,56.09,874.96,483.06,0.5,Open,normal
+2026-04-01 16:50:00,Co-working Space,22.47,48.0,1058.62,410.86,0.29,Partially Open,normal
+2026-04-01 16:50:00,Corridor,20.65,43.64,670.06,237.55,0.19,Partially Open,normal
+2026-04-01 16:50:00,Rooftop Lounge,20.92,54.93,802.89,553.01,0.64,Open,normal
+2026-04-01 17:00:00,Lobby,21.94,49.04,783.16,405.02,0.41,Partially Open,normal
+2026-04-01 17:00:00,Gym,23.85,55.3,872.12,499.45,0.48,Open,normal
+2026-04-01 17:00:00,Co-working Space,22.48,50.61,1080.0,454.48,0.25,Partially Open,normal
+2026-04-01 17:00:00,Corridor,20.39,46.05,669.57,254.76,0.24,Partially Open,normal
+2026-04-01 17:00:00,Rooftop Lounge,21.5,52.87,789.77,572.27,0.55,Open,normal
+2026-04-01 17:10:00,Lobby,22.15,50.3,807.04,416.65,0.35,Partially Open,normal
+2026-04-01 17:10:00,Gym,23.37,58.06,844.32,504.91,0.52,Open,normal
+2026-04-01 17:10:00,Co-working Space,23.03,47.96,1076.6,469.09,0.31,Partially Open,normal
+2026-04-01 17:10:00,Corridor,20.33,44.73,668.32,277.27,0.09,Closed,normal
+2026-04-01 17:10:00,Rooftop Lounge,21.95,54.43,797.15,559.04,0.46,Open,normal
+2026-04-01 17:20:00,Lobby,22.29,48.39,783.72,403.56,0.42,Partially Open,normal
+2026-04-01 17:20:00,Gym,23.98,57.04,895.95,483.29,0.36,Partially Open,normal
+2026-04-01 17:20:00,Co-working Space,22.52,47.79,1061.25,461.14,0.21,Partially Open,normal
+2026-04-01 17:20:00,Corridor,20.84,43.73,700.96,259.27,0.16,Partially Open,normal
+2026-04-01 17:20:00,Rooftop Lounge,21.75,52.66,792.39,574.65,0.49,Open,normal
+2026-04-01 17:30:00,Lobby,21.82,49.23,841.81,402.69,0.5,Open,normal
+2026-04-01 17:30:00,Gym,23.34,57.41,866.09,490.91,0.48,Open,normal
+2026-04-01 17:30:00,Co-working Space,22.74,47.16,1060.38,475.86,0.21,Partially Open,normal
+2026-04-01 17:30:00,Corridor,20.93,46.75,697.14,268.9,0.13,Partially Open,normal
+2026-04-01 17:30:00,Rooftop Lounge,21.49,53.19,794.99,567.42,0.56,Open,normal
+2026-04-01 17:40:00,Lobby,22.01,50.31,799.5,422.06,0.5,Open,normal
+2026-04-01 17:40:00,Gym,23.28,57.08,850.37,493.69,0.52,Open,normal
+2026-04-01 17:40:00,Co-working Space,22.91,50.06,1073.05,456.91,0.23,Partially Open,normal
+2026-04-01 17:40:00,Corridor,20.84,46.39,680.06,288.27,0.24,Partially Open,normal
+2026-04-01 17:40:00,Rooftop Lounge,21.98,53.0,778.37,579.37,0.55,Open,normal
+2026-04-01 17:50:00,Lobby,22.56,48.25,839.95,404.22,0.39,Partially Open,normal
+2026-04-01 17:50:00,Gym,23.43,55.58,834.58,507.28,0.35,Partially Open,normal
+2026-04-01 17:50:00,Co-working Space,22.78,48.59,1072.78,465.83,0.36,Partially Open,normal
+2026-04-01 17:50:00,Corridor,20.45,45.04,722.89,298.31,0.11,Closed,normal
+2026-04-01 17:50:00,Rooftop Lounge,21.8,51.89,832.39,556.32,0.6,Open,normal
+2026-04-01 18:00:00,Lobby,22.92,50.66,784.49,448.08,0.54,Open,normal
+2026-04-01 18:00:00,Gym,25.3,63.96,994.74,533.85,0.38,Partially Open,normal
+2026-04-01 18:00:00,Co-working Space,22.21,45.76,778.13,476.01,0.31,Partially Open,normal
+2026-04-01 18:00:00,Corridor,21.12,44.32,674.37,313.69,0.13,Partially Open,normal
+2026-04-01 18:00:00,Rooftop Lounge,22.29,53.08,765.58,570.05,0.47,Open,normal
+2026-04-01 18:10:00,Lobby,22.47,48.81,828.24,439.6,0.48,Open,normal
+2026-04-01 18:10:00,Gym,25.38,62.8,972.94,524.55,0.47,Open,normal
+2026-04-01 18:10:00,Co-working Space,22.17,42.53,774.07,495.55,0.21,Partially Open,normal
+2026-04-01 18:10:00,Corridor,20.94,45.77,667.46,294.28,0.27,Partially Open,normal
+2026-04-01 18:10:00,Rooftop Lounge,22.77,51.6,771.44,575.34,0.59,Open,normal
+2026-04-01 18:20:00,Lobby,22.56,48.11,792.16,445.59,0.36,Partially Open,normal
+2026-04-01 18:20:00,Gym,25.47,62.67,1013.38,511.67,0.4,Partially Open,normal
+2026-04-01 18:20:00,Co-working Space,22.58,45.67,764.94,473.98,0.29,Partially Open,normal
+2026-04-01 18:20:00,Corridor,21.46,46.79,679.77,304.33,0.24,Partially Open,normal
+2026-04-01 18:20:00,Rooftop Lounge,22.99,52.21,811.84,597.59,0.6,Open,normal
+2026-04-01 18:30:00,Lobby,23.09,49.92,843.65,450.48,0.51,Open,normal
+2026-04-01 18:30:00,Gym,25.84,62.53,974.47,521.69,0.46,Open,normal
+2026-04-01 18:30:00,Co-working Space,22.41,43.38,756.92,476.83,0.35,Partially Open,normal
+2026-04-01 18:30:00,Corridor,21.58,46.64,680.8,291.5,0.25,Partially Open,normal
+2026-04-01 18:30:00,Rooftop Lounge,22.4,52.67,804.82,606.15,0.47,Open,normal
+2026-04-01 18:40:00,Lobby,22.8,50.39,804.37,463.75,0.46,Open,normal
+2026-04-01 18:40:00,Gym,25.5,64.47,1030.04,542.81,0.4,Partially Open,normal
+2026-04-01 18:40:00,Co-working Space,22.48,44.07,754.24,480.06,0.38,Partially Open,normal
+2026-04-01 18:40:00,Corridor,21.57,45.58,708.25,314.27,0.12,Closed,normal
+2026-04-01 18:40:00,Rooftop Lounge,22.59,52.92,817.88,597.23,0.47,Open,normal
+2026-04-01 18:50:00,Lobby,22.65,50.38,803.2,435.21,0.46,Open,normal
+2026-04-01 18:50:00,Gym,25.73,63.33,1015.31,532.21,0.43,Partially Open,normal
+2026-04-01 18:50:00,Co-working Space,22.22,42.19,782.61,491.62,0.26,Partially Open,normal
+2026-04-01 18:50:00,Corridor,21.74,44.97,715.66,325.23,0.21,Partially Open,normal
+2026-04-01 18:50:00,Rooftop Lounge,23.15,54.86,772.22,596.06,0.61,Open,normal
+2026-04-01 19:00:00,Lobby,22.88,48.42,794.2,487.88,0.5,Open,normal
+2026-04-01 19:00:00,Gym,25.85,63.54,995.24,550.74,0.5,Open,normal
+2026-04-01 19:00:00,Co-working Space,22.37,43.21,761.43,519.43,0.29,Partially Open,normal
+2026-04-01 19:00:00,Corridor,21.59,46.61,664.21,330.58,0.24,Partially Open,normal
+2026-04-01 19:00:00,Rooftop Lounge,23.71,52.25,791.66,616.46,0.48,Open,normal
+2026-04-01 19:10:00,Lobby,23.27,50.16,791.53,479.53,0.53,Open,normal
+2026-04-01 19:10:00,Gym,25.88,62.47,992.62,543.83,0.45,Partially Open,normal
+2026-04-01 19:10:00,Co-working Space,22.7,43.55,759.92,516.11,0.22,Partially Open,normal
+2026-04-01 19:10:00,Corridor,21.4,44.29,719.54,317.16,0.23,Partially Open,normal
+2026-04-01 19:10:00,Rooftop Lounge,23.55,53.45,773.37,635.38,0.57,Open,normal
+2026-04-01 19:20:00,Lobby,23.44,49.2,847.36,476.18,0.36,Partially Open,normal
+2026-04-01 19:20:00,Gym,26.0,61.57,979.27,542.72,0.47,Open,normal
+2026-04-01 19:20:00,Co-working Space,22.8,43.37,725.09,504.53,0.23,Partially Open,normal
+2026-04-01 19:20:00,Corridor,21.9,46.54,656.9,318.69,0.14,Partially Open,normal
+2026-04-01 19:20:00,Rooftop Lounge,23.24,53.62,780.85,634.37,0.55,Open,normal
+2026-04-01 19:30:00,Lobby,23.59,50.42,802.69,472.91,0.48,Open,normal
+2026-04-01 19:30:00,Gym,26.38,62.16,1030.1,560.92,0.4,Partially Open,normal
+2026-04-01 19:30:00,Co-working Space,22.37,43.47,731.95,509.33,0.4,Partially Open,normal
+2026-04-01 19:30:00,Corridor,22.06,43.68,719.32,342.71,0.11,Closed,normal
+2026-04-01 19:30:00,Rooftop Lounge,23.63,53.17,812.47,610.37,0.51,Open,normal
+2026-04-01 19:40:00,Lobby,22.92,49.41,808.92,461.27,0.41,Partially Open,normal
+2026-04-01 19:40:00,Gym,26.15,63.94,1018.3,562.61,0.47,Open,normal
+2026-04-01 19:40:00,Co-working Space,22.98,43.83,744.06,509.6,0.38,Partially Open,normal
+2026-04-01 19:40:00,Corridor,21.87,44.78,655.4,334.68,0.18,Partially Open,normal
+2026-04-01 19:40:00,Rooftop Lounge,23.47,54.34,803.83,639.33,0.56,Open,normal
+2026-04-01 19:50:00,Lobby,23.48,50.92,836.71,472.07,0.55,Open,normal
+2026-04-01 19:50:00,Gym,26.04,64.65,1041.27,541.21,0.44,Partially Open,normal
+2026-04-01 19:50:00,Co-working Space,22.92,45.28,755.98,540.24,0.27,Partially Open,normal
+2026-04-01 19:50:00,Corridor,21.58,46.33,703.11,347.83,0.12,Closed,normal
+2026-04-01 19:50:00,Rooftop Lounge,23.94,54.66,816.08,627.74,0.63,Open,normal
+2026-04-01 20:00:00,Lobby,23.75,51.36,782.94,510.66,0.41,Partially Open,normal
+2026-04-01 20:00:00,Gym,26.41,61.69,1002.0,570.8,0.44,Partially Open,normal
+2026-04-01 20:00:00,Co-working Space,23.11,42.18,730.05,537.02,0.27,Partially Open,normal
+2026-04-01 20:00:00,Corridor,21.89,46.98,687.93,355.43,0.12,Partially Open,normal
+2026-04-01 20:00:00,Rooftop Lounge,24.31,51.73,823.67,646.65,0.59,Open,normal
+2026-04-01 20:10:00,Lobby,23.24,48.37,830.05,479.49,0.5,Open,normal
+2026-04-01 20:10:00,Gym,26.46,62.32,1033.98,587.27,0.39,Partially Open,normal
+2026-04-01 20:10:00,Co-working Space,22.78,42.8,734.95,525.48,0.39,Partially Open,normal
+2026-04-01 20:10:00,Corridor,21.84,45.22,696.78,343.2,0.15,Partially Open,normal
+2026-04-01 20:10:00,Rooftop Lounge,24.07,53.19,818.01,639.95,0.52,Open,normal
+2026-04-01 20:20:00,Lobby,23.22,51.19,781.69,509.72,0.42,Partially Open,normal
+2026-04-01 20:20:00,Gym,26.78,64.43,988.72,580.86,0.49,Open,normal
+2026-04-01 20:20:00,Co-working Space,23.38,44.57,763.17,528.36,0.39,Partially Open,normal
+2026-04-01 20:20:00,Corridor,21.74,44.04,673.3,363.73,0.18,Partially Open,normal
+2026-04-01 20:20:00,Rooftop Lounge,24.47,52.42,823.97,621.02,0.59,Open,normal
+2026-04-01 20:30:00,Lobby,23.47,50.76,805.15,507.11,0.46,Open,normal
+2026-04-01 20:30:00,Gym,26.19,62.7,1017.67,578.16,0.51,Open,normal
+2026-04-01 20:30:00,Co-working Space,23.26,45.21,778.99,545.8,0.27,Partially Open,normal
+2026-04-01 20:30:00,Corridor,21.84,44.62,692.63,346.22,0.27,Partially Open,normal
+2026-04-01 20:30:00,Rooftop Lounge,24.47,52.16,780.66,652.51,0.48,Open,normal
+2026-04-01 20:40:00,Lobby,23.92,51.13,810.89,491.44,0.4,Partially Open,normal
+2026-04-01 20:40:00,Gym,26.74,64.1,1005.61,594.37,0.54,Open,normal
+2026-04-01 20:40:00,Co-working Space,23.27,42.27,777.97,517.5,0.26,Partially Open,normal
+2026-04-01 20:40:00,Corridor,22.44,46.38,717.53,338.58,0.15,Partially Open,normal
+2026-04-01 20:40:00,Rooftop Lounge,24.44,54.05,793.99,638.49,0.48,Open,normal
+2026-04-01 20:50:00,Lobby,23.8,50.68,830.81,488.83,0.49,Open,normal
+2026-04-01 20:50:00,Gym,26.94,61.91,972.87,569.12,0.44,Partially Open,normal
+2026-04-01 20:50:00,Co-working Space,23.36,43.7,758.07,521.76,0.26,Partially Open,normal
+2026-04-01 20:50:00,Corridor,21.94,45.0,695.51,344.2,0.12,Partially Open,normal
+2026-04-01 20:50:00,Rooftop Lounge,24.46,54.26,774.21,637.87,0.64,Open,normal
+2026-04-01 21:00:00,Lobby,23.32,48.77,788.7,499.3,0.36,Partially Open,normal
+2026-04-01 21:00:00,Gym,24.94,57.11,870.56,566.06,0.47,Open,normal
+2026-04-01 21:00:00,Co-working Space,23.34,45.22,747.18,527.14,0.24,Partially Open,normal
+2026-04-01 21:00:00,Corridor,22.08,43.77,705.74,357.15,0.17,Partially Open,normal
+2026-04-01 21:00:00,Rooftop Lounge,24.38,53.67,823.24,641.28,0.55,Open,normal
+2026-04-01 21:10:00,Lobby,23.74,48.71,799.13,512.13,0.51,Open,normal
+2026-04-01 21:10:00,Gym,25.32,57.32,840.26,584.34,0.39,Partially Open,normal
+2026-04-01 21:10:00,Co-working Space,23.48,45.38,741.99,547.7,0.2,Partially Open,normal
+2026-04-01 21:10:00,Corridor,22.31,43.83,665.18,371.18,0.2,Partially Open,normal
+2026-04-01 21:10:00,Rooftop Lounge,24.14,52.25,764.51,643.69,0.52,Open,normal
+2026-04-01 21:20:00,Lobby,23.93,51.55,820.36,484.0,0.5,Open,normal
+2026-04-01 21:20:00,Gym,25.04,57.9,857.09,564.36,0.53,Open,normal
+2026-04-01 21:20:00,Co-working Space,22.9,42.83,767.08,535.78,0.23,Partially Open,normal
+2026-04-01 21:20:00,Corridor,22.56,46.38,662.33,370.25,0.18,Partially Open,normal
+2026-04-01 21:20:00,Rooftop Lounge,24.36,51.45,802.69,641.08,0.56,Open,normal
+2026-04-01 21:30:00,Lobby,23.72,50.02,788.07,513.82,0.39,Partially Open,normal
+2026-04-01 21:30:00,Gym,24.69,57.1,847.75,572.43,0.55,Open,normal
+2026-04-01 21:30:00,Co-working Space,23.08,43.88,774.75,553.4,1.0,Open,stuck_vent
+2026-04-01 21:30:00,Corridor,22.16,44.04,666.11,353.9,0.24,Partially Open,normal
+2026-04-01 21:30:00,Rooftop Lounge,24.72,54.35,823.34,663.34,0.61,Open,normal
+2026-04-01 21:40:00,Lobby,23.86,49.96,784.48,517.4,0.37,Partially Open,normal
+2026-04-01 21:40:00,Gym,24.89,57.92,894.65,585.43,0.38,Partially Open,normal
+2026-04-01 21:40:00,Co-working Space,23.0,42.51,748.42,534.85,1.0,Open,stuck_vent
+2026-04-01 21:40:00,Corridor,21.96,44.08,662.02,375.12,0.25,Partially Open,normal
+2026-04-01 21:40:00,Rooftop Lounge,24.56,51.69,818.95,639.06,0.56,Open,normal
+2026-04-01 21:50:00,Lobby,23.37,50.5,810.41,493.15,0.52,Open,normal
+2026-04-01 21:50:00,Gym,24.81,55.82,856.11,576.08,0.51,Open,normal
+2026-04-01 21:50:00,Co-working Space,22.95,44.39,739.88,523.93,1.0,Open,stuck_vent
+2026-04-01 21:50:00,Corridor,22.26,45.75,669.24,369.22,0.09,Closed,normal
+2026-04-01 21:50:00,Rooftop Lounge,24.23,52.89,779.62,631.16,0.64,Open,normal
+2026-04-01 22:00:00,Lobby,22.62,48.06,743.79,496.87,0.44,Partially Open,normal
+2026-04-01 22:00:00,Gym,25.09,57.43,872.66,581.34,0.42,Partially Open,normal
+2026-04-01 22:00:00,Co-working Space,22.83,43.15,729.28,516.29,1.0,Open,stuck_vent
+2026-04-01 22:00:00,Corridor,22.45,46.0,701.41,334.81,0.17,Partially Open,normal
+2026-04-01 22:00:00,Rooftop Lounge,24.19,54.02,790.88,632.22,0.53,Open,normal
+2026-04-01 22:10:00,Lobby,22.72,48.53,739.1,485.27,0.35,Partially Open,normal
+2026-04-01 22:10:00,Gym,24.79,54.87,843.14,588.83,0.39,Partially Open,normal
+2026-04-01 22:10:00,Co-working Space,22.74,42.71,731.72,522.86,1.0,Open,stuck_vent
+2026-04-01 22:10:00,Corridor,21.7,44.73,716.94,371.92,0.15,Partially Open,normal
+2026-04-01 22:10:00,Rooftop Lounge,24.31,54.34,780.02,622.37,0.48,Open,normal
+2026-04-01 22:20:00,Lobby,22.57,45.67,716.56,494.84,0.42,Partially Open,normal
+2026-04-01 22:20:00,Gym,24.67,56.87,872.27,573.39,0.41,Partially Open,normal
+2026-04-01 22:20:00,Co-working Space,23.19,42.75,766.41,539.09,1.0,Open,stuck_vent
+2026-04-01 22:20:00,Corridor,21.98,45.36,698.19,335.76,0.18,Partially Open,normal
+2026-04-01 22:20:00,Rooftop Lounge,23.94,51.48,797.95,644.43,0.46,Open,normal
+2026-04-01 22:30:00,Lobby,22.59,47.17,733.69,501.57,0.39,Partially Open,normal
+2026-04-01 22:30:00,Gym,25.07,56.96,848.35,563.25,0.39,Partially Open,normal
+2026-04-01 22:30:00,Co-working Space,22.85,45.34,746.67,523.75,1.0,Open,stuck_vent
+2026-04-01 22:30:00,Corridor,22.41,45.13,718.79,334.77,0.19,Partially Open,normal
+2026-04-01 22:30:00,Rooftop Lounge,23.88,54.6,803.88,617.32,0.64,Open,normal
+2026-04-01 22:40:00,Lobby,23.07,48.58,733.78,475.38,0.31,Partially Open,normal
+2026-04-01 22:40:00,Gym,24.7,56.84,864.34,552.49,0.49,Open,normal
+2026-04-01 22:40:00,Co-working Space,22.75,44.6,757.47,518.57,1.0,Open,stuck_vent
+2026-04-01 22:40:00,Corridor,22.27,45.5,672.75,336.27,0.26,Partially Open,normal
+2026-04-01 22:40:00,Rooftop Lounge,24.04,54.76,780.75,640.67,0.52,Open,normal
+2026-04-01 22:50:00,Lobby,22.58,46.82,688.78,473.41,0.39,Partially Open,normal
+2026-04-01 22:50:00,Gym,25.15,56.37,896.34,579.81,0.52,Open,normal
+2026-04-01 22:50:00,Co-working Space,22.75,45.08,732.82,514.64,1.0,Open,stuck_vent
+2026-04-01 22:50:00,Corridor,22.29,43.96,709.39,367.34,0.1,Closed,normal
+2026-04-01 22:50:00,Rooftop Lounge,24.05,54.33,784.05,623.41,0.6,Open,normal
+2026-04-01 06:00:00,Lobby,22.95,48.42,683.56,484.15,0.34,Partially Open,normal
+2026-04-01 06:00:00,Gym,25.34,55.25,850.02,577.17,0.52,Open,normal
+2026-04-01 06:00:00,Co-working Space,23.24,44.07,752.34,531.39,0.21,Partially Open,normal
+2026-04-01 06:00:00,Corridor,22.46,46.04,704.43,372.33,0.22,Partially Open,normal
+2026-04-01 06:00:00,Rooftop Lounge,23.44,50.73,672.09,638.82,0.54,Open,normal
+2026-04-01 06:10:00,Lobby,22.97,47.4,687.94,496.92,0.29,Partially Open,normal
+2026-04-01 06:10:00,Gym,24.75,57.97,889.81,571.95,0.48,Open,normal
+2026-04-01 06:10:00,Co-working Space,23.38,45.17,741.26,538.89,0.21,Partially Open,normal
+2026-04-01 06:10:00,Corridor,22.44,43.47,716.2,351.75,0.14,Partially Open,normal
+2026-04-01 06:10:00,Rooftop Lounge,23.32,48.71,638.39,630.6,0.64,Open,normal
+2026-04-01 06:20:00,Lobby,23.13,47.65,735.4,510.96,0.26,Partially Open,normal
+2026-04-01 06:20:00,Gym,25.43,57.34,839.01,571.05,0.35,Partially Open,normal
+2026-04-01 06:20:00,Co-working Space,23.54,43.68,726.45,531.67,0.4,Partially Open,normal
+2026-04-01 06:20:00,Corridor,22.48,44.77,712.58,356.08,0.25,Partially Open,normal
+2026-04-01 06:20:00,Rooftop Lounge,23.16,49.69,670.13,662.58,0.65,Open,normal
+2026-04-01 06:30:00,Lobby,23.1,46.7,682.12,519.15,0.26,Partially Open,normal
+2026-04-01 06:30:00,Gym,25.31,56.4,876.07,573.47,0.38,Partially Open,normal
+2026-04-01 06:30:00,Co-working Space,23.14,43.36,789.18,531.22,0.34,Partially Open,normal
+2026-04-01 06:30:00,Corridor,22.43,46.72,703.39,361.71,0.14,Partially Open,normal
+2026-04-01 06:30:00,Rooftop Lounge,23.55,49.92,676.34,652.6,0.54,Open,normal
+2026-04-01 06:40:00,Lobby,22.64,47.31,689.72,492.72,0.43,Partially Open,normal
+2026-04-01 06:40:00,Gym,25.45,56.47,858.2,587.93,0.36,Partially Open,normal
+2026-04-01 06:40:00,Co-working Space,23.34,45.59,725.91,550.15,0.29,Partially Open,normal
+2026-04-01 06:40:00,Corridor,22.45,44.85,711.22,355.42,0.28,Partially Open,normal
+2026-04-01 06:40:00,Rooftop Lounge,23.01,49.16,610.71,661.77,0.55,Open,normal
+2026-04-01 06:50:00,Lobby,22.65,47.02,730.67,504.74,0.34,Partially Open,normal
+2026-04-01 06:50:00,Gym,25.05,57.44,879.03,563.94,0.49,Open,normal
+2026-04-01 06:50:00,Co-working Space,23.24,45.02,760.1,547.18,0.22,Partially Open,normal
+2026-04-01 06:50:00,Corridor,22.48,46.87,722.22,372.0,0.21,Partially Open,normal
+2026-04-01 06:50:00,Rooftop Lounge,23.4,50.87,666.98,657.53,0.6,Open,normal

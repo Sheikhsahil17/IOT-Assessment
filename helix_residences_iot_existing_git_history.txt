@@ -1,0 +1,55 @@
+1c34ef6 Finish assessment artefact polish and submission assets
+ .gitignore                                      |   1 +
+ README.md                                       | 285 +++++---
+ data/alerts.csv                                 | 103 ++-
+ data/alerts.json                                | 881 ++++++++++++++++++++++-
+ data/readings.csv                               | 144 ++--
+ data/readings.json                              | 888 ++++++++++++++++--------
+ outputs/charts/co-working_space_air_quality.png | Bin 0 -> 87735 bytes
+ outputs/charts/gym_air_quality.png              | Bin 68463 -> 73022 bytes
+ outputs/charts/lobby_temperature.png            | Bin 0 -> 74899 bytes
+ report/Final_Submission_Checklist.md            |  35 +
+ report/Helix_Residences_IoT_Report.md           | 206 ++++++
+ src/gui.py                                      | 245 +++++--
+ wokwi/README.md                                 |  33 +
+ wokwi/diagram.json                              |  58 +-
+ wokwi/helix_residences_wokwi.zip                | Bin 0 -> 3448 bytes
+ wokwi/main.py                                   | 177 ++++-
+ 16 files changed, 2505 insertions(+), 551 deletions(-)
+447f597 Include sample logs and chart exports
+ .gitignore                         |   4 --
+ data/alerts.csv                    |  87 +++++++++++++++++++++++++++++++++++++
+ data/exported/.gitkeep             |   1 +
+ data/readings.csv                  |  61 ++++++++++++++++++++++++++
+ outputs/charts/.gitkeep            |   1 +
+ outputs/charts/gym_air_quality.png | Bin 0 -> 68463 bytes
+ 6 files changed, 150 insertions(+), 4 deletions(-)
+08d6c6a Add dashboard interface and submission assets
+ data/alerts.json   | 776 +++++++++++++++++++++++++++++++++++++++++++++++++++++
+ data/readings.json | 662 +++++++++++++++++++++++++++++++++++++++++++++
+ src/gui.py         | 402 +++++++++++++++++++++++++++
+ src/main.py        |   5 +
+ wokwi/diagram.json |  21 ++
+ wokwi/main.py      |  34 +++
+ 6 files changed, 1900 insertions(+)
+f1200a4 Implement simulation rules and logging pipeline
+ src/alerts.py           |  72 ++++++++++++++++++++++++++++
+ src/analytics.py        |  75 +++++++++++++++++++++++++++++
+ src/logger_manager.py   | 107 ++++++++++++++++++++++++++++++++++++++++++
+ src/rules.py            |  99 +++++++++++++++++++++++++++++++++++++++
+ src/simulator.py        | 122 ++++++++++++++++++++++++++++++++++++++++++++++++
+ tests/test_alerts.py    |  27 +++++++++++
+ tests/test_rules.py     |  58 +++++++++++++++++++++++
+ tests/test_simulator.py |  34 ++++++++++++++
+ 8 files changed, 594 insertions(+)
+d929929 Set up Helix Residences project scaffold
+ .gitignore                    |  13 +++
+ README.md                     | 197 ++++++++++++++++++++++++++++++++++++++++++
+ config/simulation_config.json |  47 ++++++++++
+ config/thresholds.json        |  29 +++++++
+ requirements.txt              |   1 +
+ src/__init__.py               |   1 +
+ src/config_loader.py          |  29 +++++++
+ src/models.py                 |  61 +++++++++++++
+ src/utils.py                  |  29 +++++++
+ 9 files changed, 407 insertions(+)

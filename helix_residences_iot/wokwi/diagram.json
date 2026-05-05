@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "author": "Helix Residences assessment artefact",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-esp32-devkit-v1", "id": "esp", "top": 3, "left": 15, "attrs": {} },
+    { "type": "wokwi-dht22", "id": "dht1", "top": -70, "left": 288, "attrs": {} },
+    { "type": "wokwi-potentiometer", "id": "pot1", "top": 82, "left": 298, "attrs": {} },
+    { "type": "wokwi-photoresistor-sensor", "id": "ldr1", "top": 225, "left": 298, "attrs": {} },
+    { "type": "wokwi-slide-switch", "id": "switch1", "top": 355, "left": 311, "attrs": {} },
+    { "type": "wokwi-led", "id": "led_green", "top": -26, "left": 511, "attrs": { "color": "green" } },
+    { "type": "wokwi-led", "id": "led_yellow", "top": 32, "left": 511, "attrs": { "color": "yellow" } },
+    { "type": "wokwi-led", "id": "led_red", "top": 91, "left": 511, "attrs": { "color": "red" } },
+    { "type": "wokwi-buzzer", "id": "buzz1", "top": 168, "left": 501, "attrs": {} },
+    { "type": "wokwi-resistor", "id": "r_green", "top": -8, "left": 441.6, "rotate": 90, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r_yellow", "top": 49.6, "left": 441.6, "rotate": 90, "attrs": { "value": "220" } },
+    { "type": "wokwi-resistor", "id": "r_red", "top": 107.2, "left": 441.6, "rotate": 90, "attrs": { "value": "220" } }
+  ],
+  "connections": [
+    [ "esp:3V3", "dht1:VCC", "red", [ "v0" ] ],
+    [ "esp:GND.1", "dht1:GND", "black", [ "v0" ] ],
+    [ "esp:15", "dht1:SDA", "green", [ "h96", "v-39" ] ],
+
+    [ "esp:3V3", "pot1:VCC", "red", [ "h40", "v130" ] ],
+    [ "esp:GND.1", "pot1:GND", "black", [ "h49", "v149" ] ],
+    [ "esp:34", "pot1:SIG", "orange", [ "h145", "v118" ] ],
+
+    [ "esp:3V3", "ldr1:VCC", "red", [ "h27", "v219" ] ],
+    [ "esp:GND.1", "ldr1:GND", "black", [ "h19", "v228" ] ],
+    [ "esp:35", "ldr1:AO", "purple", [ "h132", "v210" ] ],
+
+    [ "esp:27", "switch1:1", "blue", [ "h126", "v314" ] ],
+    [ "esp:GND.1", "switch1:2", "black", [ "h10", "v323" ] ],
+
+    [ "esp:18", "r_green:1", "green", [ "h163", "v-8" ] ],
+    [ "r_green:2", "led_green:A", "green", [ "h20" ] ],
+    [ "led_green:C", "esp:GND.2", "black", [ "h-153", "v49" ] ],
+
+    [ "esp:19", "r_yellow:1", "gold", [ "h156", "v20" ] ],
+    [ "r_yellow:2", "led_yellow:A", "gold", [ "h20" ] ],
+    [ "led_yellow:C", "esp:GND.2", "black", [ "h-153", "v30" ] ],
+
+    [ "esp:21", "r_red:1", "red", [ "h144", "v50" ] ],
+    [ "r_red:2", "led_red:A", "red", [ "h20" ] ],
+    [ "led_red:C", "esp:GND.2", "black", [ "h-153", "v11" ] ],
+
+    [ "esp:22", "buzz1:1", "magenta", [ "h177", "v114" ] ],
+    [ "buzz1:2", "esp:GND.2", "black", [ "h-163", "v35" ] ]
+  ],
+  "dependencies": {}
+}

@@ -1,0 +1,47 @@
+{
+  "seed": 20260419,
+  "step_minutes": 10,
+  "default_speed_multiplier": 1.0,
+  "zones": [
+    {
+      "name": "Lobby",
+      "base_temperature": 21.0,
+      "base_humidity": 45.0,
+      "base_air_quality": 620.0,
+      "base_light_level": 420.0,
+      "vent_open_ratio": 0.35
+    },
+    {
+      "name": "Gym",
+      "base_temperature": 22.5,
+      "base_humidity": 52.0,
+      "base_air_quality": 760.0,
+      "base_light_level": 500.0,
+      "vent_open_ratio": 0.45
+    },
+    {
+      "name": "Co-working Space",
+      "base_temperature": 21.5,
+      "base_humidity": 43.0,
+      "base_air_quality": 700.0,
+      "base_light_level": 460.0,
+      "vent_open_ratio": 0.3
+    },
+    {
+      "name": "Corridor",
+      "base_temperature": 20.0,
+      "base_humidity": 42.0,
+      "base_air_quality": 560.0,
+      "base_light_level": 280.0,
+      "vent_open_ratio": 0.18
+    },
+    {
+      "name": "Rooftop Lounge",
+      "base_temperature": 20.5,
+      "base_humidity": 48.0,
+      "base_air_quality": 590.0,
+      "base_light_level": 520.0,
+      "vent_open_ratio": 0.55
+    }
+  ]
+}
