@@ -1,0 +1,45 @@
+*   37bfc4b (HEAD -> main, origin/main) Merge remote starter repository
+|\  
+| * 90e3669 Initial commit
+|    .gitignore | 218 +++++++++++++++++++
+|    LICENSE    | 674 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+|    README.md  |   1 +
+|    3 files changed, 893 insertions(+)
+* 303d71d Add final IoT assessment submission files
+   .gitignore                                        |   21 +
+   IOT REPORT.pdf                                    |  Bin 0 -> 2109620 bytes
+   helix_residences_iot/.gitignore                   |   10 +
+   helix_residences_iot/README.md                    |  156 +
+   .../config/simulation_config.json                 |   47 +
+   helix_residences_iot/config/thresholds.json       |   29 +
+   helix_residences_iot/data/alerts.csv              |  937 ++
+   helix_residences_iot/data/alerts.json             | 8426 ++++++++++++++++++
+   helix_residences_iot/data/exported/.gitkeep       |    1 +
+   helix_residences_iot/data/readings.csv            |  801 ++
+   helix_residences_iot/data/readings.json           | 8802 +++++++++++++++++++
+   helix_residences_iot/outputs/charts/.gitkeep      |    1 +
+   .../charts/co-working_space_air_quality.png       |  Bin 0 -> 87735 bytes
+   .../charts/co-working_space_temperature.png       |  Bin 0 -> 98142 bytes
+   .../outputs/charts/gym_air_quality.png            |  Bin 0 -> 73022 bytes
+   .../outputs/charts/lobby_temperature.png          |  Bin 0 -> 74899 bytes
+   helix_residences_iot/requirements.txt             |    1 +
+   helix_residences_iot/src/__init__.py              |    1 +
+   helix_residences_iot/src/alerts.py                |   72 +
+   helix_residences_iot/src/analytics.py             |   75 +
+   helix_residences_iot/src/config_loader.py         |   29 +
+   helix_residences_iot/src/gui.py                   |  559 ++
+   helix_residences_iot/src/logger_manager.py        |  107 +
+   helix_residences_iot/src/main.py                  |    5 +
+   helix_residences_iot/src/models.py                |   61 +
+   helix_residences_iot/src/rules.py                 |   99 +
+   helix_residences_iot/src/simulator.py             |  122 +
+   helix_residences_iot/src/utils.py                 |   29 +
+   helix_residences_iot/tests/test_alerts.py         |   27 +
+   helix_residences_iot/tests/test_rules.py          |   58 +
+   helix_residences_iot/tests/test_simulator.py      |   34 +
+   .../wokwi/MicroPython Blink ESP32 Copy.zip        |  Bin 0 -> 7727 bytes
+   helix_residences_iot/wokwi/README.md              |   33 +
+   helix_residences_iot/wokwi/diagram.json           |   51 +
+   helix_residences_iot/wokwi/main.py                |  167 +
+   helix_residences_iot_existing_git_history.txt     |   55 +
+   36 files changed, 20816 insertions(+)
